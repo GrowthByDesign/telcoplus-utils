@@ -23,13 +23,13 @@ const Card = ({
 
   return (
     <div
-      className={`mx-auto tw-max-w-[433px] b-rad tw-h-fit ${shadowDirection}`}>
+      className={`tw-mx-auto tw-max-w-[433px] b-rad tw-h-fit ${shadowDirection}`}>
       <img
-        className="tw-w-full rounded-t-b-rad"
+        className="rounded-t-b-rad tw-max-h-[294px] tw-object-cover tw-w-[433px]"
         src={imgSrc}
         alt={title}
-        height="433"
-        width="294"
+        height="294"
+        width="433"
       />
       <div className="tw-text-brandingBlue-400 tw-font-bold tw-text-center tw-text-lg fs-18 tw-py-2">
         {title}
