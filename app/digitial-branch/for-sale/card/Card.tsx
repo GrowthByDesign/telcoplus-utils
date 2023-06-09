@@ -1,6 +1,6 @@
-import LeftCol from "./LeftCol";
-import RightCol from "./RightCol";
-import { Repo } from "./data";
+import { Repo } from "../data";
+import LeftCol from "./cols/LeftCol";
+import RightCol from "./cols/RightCol";
 
 /* eslint-disable @next/next/no-img-element */
 const Card = ({

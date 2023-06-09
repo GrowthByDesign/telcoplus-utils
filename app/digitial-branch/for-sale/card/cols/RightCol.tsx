@@ -1,4 +1,4 @@
-import { Repo } from "./data";
+import { Repo } from "../../data";
 
 const RightCol = ({ startingPrice, buyPrice }: Repo) => {
   return (

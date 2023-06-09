@@ -1,8 +1,8 @@
-import CarIcon from "./CarIcon";
 import LeftColItem from "./LeftColItem";
-import MileIcon from "./MileIcon";
-import PaintIcon from "./PaintIcon";
-import { Repo } from "./data";
+import { Repo } from "../../data";
+import CarIcon from "../icons/CarIcon";
+import MileIcon from "../icons/MileIcon";
+import PaintIcon from "../icons/PaintIcon";
 
 const LeftCol = ({ engine, mileage, color }: Repo) => {
   return (
