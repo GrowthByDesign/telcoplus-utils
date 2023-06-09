@@ -5,7 +5,7 @@ import { Repo } from "./data";
 /* eslint-disable @next/next/no-img-element */
 const Card = ({
   imgSrc,
-  imgAlt,
+  shadowDirection,
   title,
   engine,
   mileage,
@@ -13,9 +13,24 @@ const Card = ({
   startingPrice,
   buyPrice,
 }: Repo) => {
+  if (shadowDirection === "left") {
+    shadowDirection = "hero-shadow-left";
+  } else if (shadowDirection === "right") {
+    shadowDirection = "hero-shadow-right";
+  } else if (shadowDirection === "middle") {
+    shadowDirection = "repo-shadow";
+  }
+
   return (
-    <div className="mx-auto tw-max-w-[433px] b-rad tw-h-fit hero-shadow-left">
-      <img className="tw-w-full rounded-t-b-rad" src={imgSrc} alt={imgAlt} />
+    <div
+      className={`mx-auto tw-max-w-[433px] b-rad tw-h-fit ${shadowDirection}`}>
+      <img
+        className="tw-w-full rounded-t-b-rad"
+        src={imgSrc}
+        alt={title}
+        height="433"
+        width="294"
+      />
       <div className="tw-text-brandingBlue-400 tw-font-bold tw-text-center tw-text-lg fs-18 tw-py-2">
         {title}
       </div>
