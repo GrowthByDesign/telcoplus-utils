@@ -1,6 +1,6 @@
-import React from "react";
+import { Repo } from "./data";
 
-const RightCol = () => {
+const RightCol = ({ startingPrice, buyPrice }: Repo) => {
   return (
     <div className="[right-col] tw-grid tw-gap-y-2 tw-px-4">
       <div className="tw-grid tw-items-center">
@@ -8,7 +8,7 @@ const RightCol = () => {
           starting at
         </div>
         <div className="tw-text-5xl tw-font-bold tw-text-auxBlue-800">
-          $16,995
+          {startingPrice}
         </div>
       </div>
       <div className="tw-grid tw-items-center">
@@ -16,7 +16,7 @@ const RightCol = () => {
           buy now
         </div>
         <div className="tw-text-2xl tw-font-bold tw-text-auxBlue-800">
-          $16,995
+          {buyPrice}
         </div>
       </div>
     </div>
