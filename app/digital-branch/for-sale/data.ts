@@ -22,15 +22,6 @@ export const repos: Repo[] = [
     buyPrice: "$21,995",
   },
   {
-    imgSrc: "https://www.telcoplus.org/wp-content/uploads/2023/05/2007-cad.jpg",
-    title: "2007 Cadillac DTS Sedan",
-    engine: "4.6L 8V",
-    mileage: "124,543 miles; in Longview",
-    color: "White Exterior",
-    startingPrice: "$2,995",
-    buyPrice: "$4,995",
-  },
-  {
     imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2023/05/2015-chevy.jpg",
     title: "2015 Chevy Silverado 1500",
@@ -39,16 +30,6 @@ export const repos: Repo[] = [
     color: "Blue Exterior",
     startingPrice: "$15,995",
     buyPrice: "$17,995",
-  },
-  {
-    imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2023/06/IMG-3398-scaled.jpg",
-    title: "2015 Ford Mustang",
-    engine: "DT 5.0L V8",
-    mileage: "172,231 miles in Longview",
-    color: "Blue Exterior",
-    startingPrice: "$12,995",
-    buyPrice: "$14,995",
   },
   {
     imgSrc:
