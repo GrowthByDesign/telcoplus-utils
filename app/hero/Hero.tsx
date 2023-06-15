@@ -18,6 +18,10 @@ const Hero = () => {
         </div>
         <Login />
       </Container>
+
+      <div className="tw-absolute tw-bottom-5 tw-right-10 tw-hidden tw-text-sm tw-italic tw-text-white/50 md:tw-block">
+        Crystal Young
+      </div>
       <HeroImg />
     </div>
   );

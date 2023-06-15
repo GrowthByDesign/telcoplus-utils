@@ -3,7 +3,7 @@ type ContainerProps = {
   className?: string;
 };
 
-const Container = ({ children, className }: ContainerProps) => {
+const Container = ({ children, className = "" }: ContainerProps) => {
   return <div className={`container-de ${className}`}>{children}</div>;
 };
 
