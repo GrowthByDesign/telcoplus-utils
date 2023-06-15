@@ -7,15 +7,16 @@ module.exports = {
     "./app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
-    screens: {
-      xl: "75em",
-      xxl: "93.75em",
-    },
-
     extend: {
+      screens: {
+        xl: "75em",
+        xxl: "93.75em",
+        xxxl: "1920px",
+      },
       colors: {
         brandingBlue: {
           400: "rgb(0, 101, 163)",
+          500: "rgb(0, 79, 128)",
         },
         auxBlue: {
           100: "rgb(242, 245, 247)",
@@ -31,6 +32,7 @@ module.exports = {
         },
         brandingGrey: {
           700: "rgb(64, 64, 64)",
+          900: "rgb(2, 16, 23)",
         },
       },
     },

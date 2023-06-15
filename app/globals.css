@@ -55,6 +55,12 @@
   column-gap: 0.35rem;
 }
 
+.home-hero-shadow {
+  box-shadow: 13px 8px 13px -2px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: 13px 8px 13px -2px rgba(0, 0, 0, 0.3);
+  -moz-box-shadow: 13px 8px 13px -2px rgba(0, 0, 0, 0.3);
+}
+
 .hero-shadow-left {
   box-shadow: 13px 8px 13px -2px rgba(0, 0, 0, 0.3),
     -69px 70px 0px -53px var(--clr-primary-400);
@@ -108,4 +114,18 @@
 
 .tw-btn:hover {
   transform: scale(1.05) translateY(-0.125em);
+}
+
+@media (max-width: 1280px) {
+  .home-hero-img::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #000;
+    opacity: 0.5;
+  }
 }
