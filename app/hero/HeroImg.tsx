@@ -6,7 +6,7 @@ const HeroImg = () => {
     <div className="home-hero-img tw-bg-brandingBlue-400">
       <img
         className="tw-mx-auto tw-min-h-[375px] tw-w-full tw-max-w-[1920px] tw-border-brandingBlue-500 tw-object-cover md:tw-min-h-[500px] xxxl:tw-border-l-4 xxxl:tw-border-r-4"
-        src="https://www.telcoplus.org/wp-content/uploads/2023/06/hero-6-23-min.jpg"
+        src="https://www.telcoplus.org/wp-content/uploads/2023/06/ballon-hero.jpg"
         alt="hero image"
       />
     </div>
