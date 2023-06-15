@@ -1,7 +1,9 @@
+import Hero from "./Hero";
+
 export default function Home() {
   return (
     <main>
-      <h1>yeppers</h1>
+      <Hero />
     </main>
   );
 }
