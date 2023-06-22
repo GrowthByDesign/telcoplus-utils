@@ -7,11 +7,6 @@ export type NewsDataType = {
 
 export const newsData = [
   {
-    title: "Closed for the Holiday Weekend",
-    description:
-      "We are closed in observance of Juneteenth holiday, June 17th – 19th and will resume normal business hours on Tuesday, June. 20th.",
-  },
-  {
     title: "Texas & Beyond Photo Contest deadline is July 31st!",
     description:
       "Please submit your photos and entry form by July 31st, 5:30 pm. Photos can be from anywhere in the world and we even have a children division. Please print the Entry Form for rules and details. Grand Prize is $100!",
@@ -22,6 +17,16 @@ export const newsData = [
     title: "Scheduling Services",
     description:
       "We now offer scheduling services on our website. This will allow you to schedule an appointment for different service types at a branch of your choosing. Bank from the comfort of your home, the new tool even does video calls! Try it today to save you time by not waiting around or driving to the credit union.",
+  },
+  {
+    title: "Closed for Fourth of July",
+    description:
+      "We will only be closed on Tuesday, July 4th for holiday.  Everyone have a safe and fun holiday.",
+  },
+  {
+    title: "Christmas in July Loans",
+    description:
+      "Apply online or in Home Banking for our summer loan special!  The offer is July 10 – 29, 2023. Credit qualifications apply, please visit the LOAN page for details. ",
   },
   {
     title: "What is my balance?",
