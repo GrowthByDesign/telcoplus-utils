@@ -36,10 +36,10 @@ export const repos: Repo[] = [
       "https://www.telcoplus.org/wp-content/uploads/2023/06/IMG-3403-scaled.jpg",
     title: "2020 Nissan Altima",
     engine: "4D SR 2.5L I4",
-    mileage: "77,511 miles in Longview",
+    mileage: "97,519 miles in Longview",
     color: "White Exterior",
-    startingPrice: "$17,995",
-    buyPrice: "$21,995",
+    startingPrice: "$15,995",
+    buyPrice: "$19,995",
   },
   {
     imgSrc:
