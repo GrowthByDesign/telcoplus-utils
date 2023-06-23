@@ -176,3 +176,12 @@
       100px -85px 0px -67px var(--clr-neutral-400);
   }
 }
+
+.tw-text-4-5xl {
+  font-size: 2.5rem;
+  line-height: 1;
+}
+
+.telco-list {
+  list-style-image: url("https://www.telcoplus.org/wp-content/uploads/2023/01/li-icon-accent.png");
+}
