@@ -79,13 +79,4 @@ export const repos: Repo[] = [
     startingPrice: "$21,995",
     buyPrice: "$25,995",
   },
-  {
-    imgSrc: "https://www.telcoplus.org/wp-content/uploads/2023/06/sonata.jpg",
-    title: "2020 Hyundai Sonata",
-    engine: "4D, SEL 2.5L I4",
-    mileage: "27,131 miles, in Tyler",
-    color: "Red Exterior",
-    startingPrice: "$21,995",
-    buyPrice: "$24,995",
-  },
 ];
