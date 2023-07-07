@@ -7,11 +7,6 @@ export type NewsDataType = {
 
 export const newsData = [
   {
-    title: "Closed for Fourth of July",
-    description:
-      "We will only be closed on Tuesday, July 4th for holiday.  Everyone have a safe and fun holiday.",
-  },
-  {
     title: "Christmas in July Loans",
     description:
       "Apply online or in Home Banking for our summer loan special!  The offer is July 10 – 29, 2023. Credit qualifications apply, please visit the LOAN page for details. ",
