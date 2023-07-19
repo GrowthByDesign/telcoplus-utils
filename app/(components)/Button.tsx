@@ -1,4 +1,4 @@
-type ButtonProps = {
+export type ButtonProps = {
   text: string;
   link: string;
   wrapperClass?: string;
@@ -20,7 +20,8 @@ const Button = ({ text, link, wrapperClass, variant }: ButtonProps) => {
         className={`tw-button-shadow tw-btn tw-rounded-full tw-border-0 tw-px-5 tw-py-[0.8rem] tw-font-bold tw-capitalize tw-leading-4 ${handleVariant(
           variant
         )}`}
-        href={link}>
+        href={link}
+      >
         {text}
       </a>
     </div>
