@@ -32,35 +32,6 @@ export const repos: Repo[] = [
     buyPrice: "$17,995",
   },
   {
-    imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2023/06/IMG-3403-scaled.jpg",
-    title: "2020 Nissan Altima",
-    engine: "4D SR 2.5L I4",
-    mileage: "97,519 miles in Longview",
-    color: "White Exterior",
-    startingPrice: "$15,995",
-    buyPrice: "$19,995",
-  },
-  {
-    imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2023/06/IMG-3397-scaled.jpg",
-    title: "2016 Mazda 3 Sedan",
-    engine: "Grand Touring, 2.0L I4",
-    mileage: "134,350 miles in Longview",
-    color: "Gray Exterior",
-    startingPrice: "$10,995",
-    buyPrice: "$12,995",
-  },
-  {
-    imgSrc: "https://www.telcoplus.org/wp-content/uploads/2023/06/IMG_4154.jpg",
-    title: "2013 Ford F150 Crew Cab XLT",
-    engine: "Eco Boost 3.5L Turbo",
-    mileage: "135,000 miles in Tyler",
-    color: "Blue Exterior",
-    startingPrice: "$14,995",
-    buyPrice: "$15,995",
-  },
-  {
     imgSrc: "https://www.telcoplus.org/wp-content/uploads/2023/06/tahoe.jpg",
     title: "2013 Chevy Tahoe",
     engine: "4D 5.3L V8",
