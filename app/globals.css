@@ -7,6 +7,10 @@
   --clr-neutral-400: hsl(240, 2%, 64%);
 }
 
+.tw-font-serif {
+  font-family: jubilat, serif;
+}
+
 .container-de {
   --max-width: 1350px;
   --container-padding: 1.5rem;

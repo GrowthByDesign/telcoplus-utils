@@ -13,7 +13,7 @@ const page = () => {
       />
       <Container>
         <div>yea</div>
-        <div className="tw-grid  tw-items-baseline tw-gap-20 md:tw-grid-cols-2">
+        <div className="tw-grid tw-items-baseline tw-gap-20 md:tw-grid-cols-2">
           {leadershipData.map((leader, idx) => (
             <BoardMember
               key={idx}
