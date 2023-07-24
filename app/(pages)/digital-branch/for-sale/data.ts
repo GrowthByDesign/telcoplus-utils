@@ -50,4 +50,24 @@ export const repos: Repo[] = [
     startingPrice: "$21,995",
     buyPrice: "$25,995",
   },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2023/07/20230724_095741_resized_1-scaled.jpg",
+    title: "2014 Chevy 1500",
+    engine: "4WD 5.3L V8",
+    mileage: "129,101 miles in Longview",
+    color: "Black",
+    startingPrice: "$15,995",
+    buyPrice: "$17,995",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2023/07/20230724_095326_resized_1-scaled.jpg",
+    title: "2014 Chevy Suburban",
+    engine: "",
+    mileage: "155,263 miles in Longview",
+    color: "Silver",
+    startingPrice: "$11,995",
+    buyPrice: "$13,995",
+  },
 ];
