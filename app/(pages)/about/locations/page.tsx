@@ -1,4 +1,5 @@
 import MainBranch from "./(branches)/MainBranch";
+import Tyler1010 from "./(branches)/Tyler1010";
 import TylerBroadway from "./(branches)/TylerBroadway";
 
 const Locations = () => {
@@ -6,7 +7,7 @@ const Locations = () => {
     <div>
       <MainBranch />
       <TylerBroadway />
-      <div className="tw-text-lg tw-font-semibold">*Closed on Saturdays that fall in a 3 day holiday weekend schedule. Please see Closed Schedule.</div>
+      <Tyler1010 />
     </div >
   )
 }
