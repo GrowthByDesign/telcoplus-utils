@@ -6,7 +6,7 @@ type LocationImgProps = {
 
 const LocationImg = ({ imgSrc, imgAlt }: LocationImgProps) => {
   return (
-    <div><img className="lg-hero-shadow-right tw-max-w-[500px] tw-mx-auto tw-w-full tw-shadow-lg tw-shadow-brandingGrey-900/40" src={imgSrc} alt={imgAlt} /></div>
+    <div><img className="b-rad lg-hero-shadow-right tw-max-w-[500px] tw-mx-auto tw-w-full tw-shadow-lg tw-shadow-brandingGrey-900/40" src={imgSrc} alt={imgAlt} /></div>
   )
 }
 
