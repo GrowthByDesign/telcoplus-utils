@@ -120,7 +120,7 @@
   transform: scale(1.05) translateY(-0.125em);
 }
 
-@media (max-width: 1280px) {
+@media (max-width: 768px) {
   .home-hero-img::before {
     content: "";
     display: block;
