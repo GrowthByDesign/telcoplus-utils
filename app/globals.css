@@ -240,3 +240,17 @@
 .telco-list {
   list-style-image: url("https://www.telcoplus.org/wp-content/uploads/2023/01/li-icon-accent.png");
 }
+
+.esp-toggle .esp-dropdown li {
+  border-bottom: 1px solid #bbb;
+  font-size: .875rem;
+  padding: 0 !important;
+}
+
+.esp-toggle .esp-dropdown li a {
+  display: flex;
+  color: #fff;
+  padding-inline:1rem;
+  padding-block:1.125rem;
+}
+

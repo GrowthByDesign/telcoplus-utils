@@ -10,7 +10,7 @@ const TylerBroadway = () => {
   return (
     <ContentSection>
       <Container>
-        <TwoCol>
+        <TwoCol >
           <LocationImg imgSrc="https://www.telcoplus.org/wp-content/uploads/2023/03/TelcoPlusCU_Tyler-037-Edit-Edit-1.jpg" imgAlt="Broadway branch" />
           <LocationColWrapper>
             <LocationsCol title="Tyler - Broadway" largeTitle>
