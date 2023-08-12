@@ -21,15 +21,13 @@ const Tyler1010 = () => {
             <LocationsCol title="Lobby Hours">
               <div>Mon/Tue/Wed: 9:00 a.m. - 5:30 p.m.</div>
               <div>Thu/Fri: 9:00 a.m. - 6:00 p.m.</div>
-              <div>Sat: 9:00 a.m. - 12 p.m.*</div>
             </LocationsCol>
             <LocationsCol title="Drive-Thru Hours">
               <div>Mon/Tues/Wed: 8:00 a.m. - 5:30 p.m.</div>
               <div>Thu/Fri: 8:00 a.m. - 6:00 p.m.</div>
-              <div>Sat: 9:00 a.m. - 12:00 p.m.*</div>
             </LocationsCol>
           </LocationColWrapper>
-          <LocationImg imgSrc="https://www.telcoplus.org/wp-content/uploads/2023/08/1010-edit-1.jpg" imgAlt="1010 branch" />
+          <LocationImg imgSrc="https://www.telcoplus.org/wp-content/uploads/2023/08/Sign-1010.jpg" imgAlt="1010 branch" />
         </TwoCol>
         <div className="tw-pt-10 tw-text-center tw-font-semibold">*Closed on Saturdays that fall in a 3 day holiday weekend schedule. Please see Closed Schedule.</div>
       </Container>
