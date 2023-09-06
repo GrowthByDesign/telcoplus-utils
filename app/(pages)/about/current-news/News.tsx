@@ -1,5 +1,3 @@
-import Container from "@/app/(components)/Container";
-import ContentSection from "@/app/(components)/ContentSection";
 import { newsData } from "./newsData";
 
 const News = () => {
@@ -13,7 +11,12 @@ const News = () => {
           <div>{news.description}</div>
           {news.linkText && news.link && (
             <div>
-              <a className="tw-underline tw-bg-yellow-300" href={news.link} target="_blank" rel="noopener noreferrer">
+              <a
+                className="tw-bg-yellow-300 tw-underline"
+                href={news.link}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 {news.linkText}
               </a>
             </div>

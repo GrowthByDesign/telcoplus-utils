@@ -7,16 +7,24 @@ export type NewsDataType = {
 
 export const newsData = [
   {
-    title: "Christmas in July Loans",
+    title: "Our Third Branch is Now Open",
     description:
-      "Apply online or in Home Banking for our summer loan special!  The offer is July 10 – 29, 2023. Credit qualifications apply, please visit the LOAN page for details. ",
+      "Please visit our newest branch located at 1010 S SE Loop 323, Tyler, TX.  This is on the east side of the loop, between 5th Street and Front Street.  We call this branch 1010 since we have two branches in Tyler.  This beautiful branch is full service, with products, loans, drive-thru, and ATM.  If you need assistance, please give 1010 a call 903-508-2570.",
   },
   {
-    title: "Texas & Beyond Photo Contest deadline is July 31st!",
+    title: "Grand Opening",
     description:
-      "Please submit your photos and entry form by July 31st, 5:30 pm. Photos can be from anywhere in the world and we even have a children division. Please print the Entry Form for rules and details. Grand Prize is $100!",
-    linkText: "Photo Contest Entry Form",
-    link: "https://www.telcoplus.org/wp-content/uploads/2023/05/Photo-Contest-Entry-Form-2023-b.pdf",
+      "We will be celebrating our 3rd branch with a Grand Opening and Chamber of Commerce’s Ribbon Cutting on Wednesday, Sept. 20th.  The Ribbon Cutting will be at 11 am and the festivities will be from 11 am to 2 pm.",
+  },
+  {
+    title: "Blue Santa Kickoff",
+    description:
+      "Please bring the kids to the Main branch on Saturday, Sept. 23 from 9 am to noon.  The kids can take pictures with Santa and enjoy fun activities.  Everyone can have FREE snow cones by Charlie’s Sno-Balls!  The Longview PD raises money to give children a brighter Christmas and positive relationship with an officer.  All donations that day will go to the Blue Santa Project, Longview PD. ",
+  },
+  {
+    title: "CD Promotions",
+    description:
+      "Be sure to check out our Share Rates page often.  We run great special so you can earn more!  Please call us with any questions that you may have.",
   },
   {
     title: "Scheduling Services",
@@ -27,11 +35,6 @@ export const newsData = [
     title: "What is my balance?",
     description:
       "Please use our FREE services to look up your balance. You can use Home Banking or the Mobile App, it only takes 15 seconds! You can also use Audio Response, if you have never used the program, please talk to Member Services for a PIN. The Audio Response number is 903-757-6014.",
-  },
-  {
-    title: "New Branch Coming Soon",
-    description:
-      "Telco Plus is adding a third branch and it will be located at 1010 S SE Loop 323, Tyler. We are super excited about the new location and the community it will serve. It should be open mid-July. Please check back for an official open date.",
   },
   {
     title: "Travel Notices",
