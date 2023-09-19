@@ -12,8 +12,26 @@ export type Repo = {
 
 export const repos: Repo[] = [
   {
+    imgSrc: "https://www.telcoplus.org/wp-content/uploads/2023/09/chevy-73.png",
+    title: "2016 Chevy Malibu",
+    engine: "4D Sedan, 2LT 2.0L Turbo",
+    mileage: "73,485 miles in Tyler",
+    color: "White Exterior",
+    startingPrice: "$11,995",
+    buyPrice: "$14,995",
+  },
+  {
     imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2023/08/chevy-14.jpg",
+      "https://www.telcoplus.org/wp-content/uploads/2023/09/niss-murano.png",
+    title: "2015 Nissan Murano",
+    engine: "3.5L V6",
+    mileage: "104,661 miles in Tyler",
+    color: "Gray Exterior",
+    startingPrice: "$11,995",
+    buyPrice: "$14,995",
+  },
+  {
+    imgSrc: "https://www.telcoplus.org/wp-content/uploads/2023/08/chevy-14.jpg",
     title: "2014 Chevy 1500",
     engine: "Crew Cab LT 5.3L V8",
     mileage: "131,923 Miles in Tyler",
