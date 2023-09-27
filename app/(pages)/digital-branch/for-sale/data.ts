@@ -12,6 +12,25 @@ export type Repo = {
 
 export const repos: Repo[] = [
   {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2023/09/toyota-4-runner.jpg",
+    title: "2018 Toyota 4 Runner",
+    engine: "SR5, 4.0L V6",
+    mileage: "99,044 miles in Longview",
+    color: "White Exterior",
+    startingPrice: "$24,995",
+    buyPrice: "$30,500",
+  },
+  {
+    imgSrc: "https://www.telcoplus.org/wp-content/uploads/2023/09/acadia.jpg",
+    title: "2017 GMC Acadia",
+    engine: "3.6 L V6",
+    mileage: "64,722 miles in Tyler",
+    color: "Silver Exterior",
+    startingPrice: "$16,995",
+    buyPrice: "$21,500",
+  },
+  {
     imgSrc: "https://www.telcoplus.org/wp-content/uploads/2023/09/chevy-73.png",
     title: "2016 Chevy Malibu",
     engine: "4D Sedan, 2LT 2.0L Turbo",
@@ -31,33 +50,14 @@ export const repos: Repo[] = [
     buyPrice: "$14,995",
   },
   {
-    imgSrc: "https://www.telcoplus.org/wp-content/uploads/2023/08/chevy-14.jpg",
-    title: "2014 Chevy 1500",
-    engine: "Crew Cab LT 5.3L V8",
-    mileage: "131,923 Miles in Tyler",
-    color: "White Exterior",
-    startingPrice: "$15,995",
-    buyPrice: "$18,995",
-  },
-  {
     imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2023/05/2014-ford.jpg",
     title: "2014 Ford F-150 King Ranch",
     engine: "Crew Cab, 4WD 5.0L V8",
     mileage: "135,173 miles in Longview",
-    color: "White Exterior",
+    color: "Black and Tan Exterior",
     startingPrice: "$16,995",
     buyPrice: "$21,995",
-  },
-  {
-    imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2023/05/2015-chevy.jpg",
-    title: "2015 Chevy Silverado 1500",
-    engine: "Extended Cab LT 5.3L V8",
-    mileage: "143,477 miles; in Longview",
-    color: "Blue Exterior",
-    startingPrice: "$15,995",
-    buyPrice: "$17,995",
   },
   {
     imgSrc: "https://www.telcoplus.org/wp-content/uploads/2023/06/tahoe.jpg",
