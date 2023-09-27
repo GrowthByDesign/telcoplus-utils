@@ -11,10 +11,8 @@ const page = () => {
       <SectionHeader title="current news" subHeading="telco today" />
       <ContentSection>
         <Container>
-          <TwoCol>
-            <News />
-            <Holiday />
-          </TwoCol>
+          <Holiday />
+          <News />
         </Container>
       </ContentSection>
     </div>

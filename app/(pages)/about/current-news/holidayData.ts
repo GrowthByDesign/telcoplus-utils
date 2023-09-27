@@ -44,4 +44,8 @@ export const holidayData = [
     holiday: "New Year’s Eve",
     date: "December 30, 2023",
   },
+  {
+    holiday: "New Year’s Day",
+    date: "January 2, 2024",
+  },
 ];

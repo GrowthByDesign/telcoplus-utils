@@ -12,14 +12,44 @@ export const newsData = [
       "Please visit our newest branch located at 1010 S SE Loop 323, Tyler, TX.  This is on the east side of the loop, between 5th Street and Front Street.  We call this branch 1010 since we have two branches in Tyler.  This beautiful branch is full service, with products, loans, drive-thru, and ATM.  If you need assistance, please give 1010 a call 903-508-2570.",
   },
   {
-    title: "Grand Opening",
+    title: "Holiday Schedule",
     description:
-      "We will be celebrating our 3rd branch with a Grand Opening and Chamber of Commerce’s Ribbon Cutting on Wednesday, Sept. 20th.  The Ribbon Cutting will be at 11 am and the festivities will be from 11 am to 2 pm.",
+      "Please review our closings schedule!  With the holidays fast approaching, we want to make sure that we don’t miss each other in passing.  We are OPEN on Columbus Day this year and the day after Thanksgiving!",
   },
   {
-    title: "Blue Santa Kickoff",
+    title: "Travel Notices",
     description:
-      "Please bring the kids to the Main branch on Saturday, Sept. 23 from 9 am to noon.  The kids can take pictures with Santa and enjoy fun activities.  Everyone can have FREE snow cones by Charlie’s Sno-Balls!  The Longview PD raises money to give children a brighter Christmas and positive relationship with an officer.  All donations that day will go to the Blue Santa Project, Longview PD. ",
+      "Please send us a message through Secure Messages in your App or Home Banking to let us know if you will be traveling!  (Otherwise, your card might not work on the way to grandma’s house.)",
+  },
+  {
+    title: "National Night Out Block Party",
+    description:
+      "Our NNO Block will be Tuesday, October 3rd from 3:30 pm to 5:30 pm at the Longview branch.  Charlie’s Sno-balls will be here handing out FREE snow cones.  Please join us for a little fun while building a safer and stronger community. ",
+  },
+  {
+    title: "Christmas Club Account Availability",
+    description:
+      "Starting Oct. 2nd, you will have access to your Christmas Club share account.  You can make 2 withdrawals from that account through Jan. 15, 2024.  If you don’t have a Christmas Club, please see us. This is a great way to save for Christmas, vacations, or taxes.",
+  },
+  {
+    title: "Toy Refi",
+    description:
+      "The Toy Refi is back for 2 weeks!   Offer is Oct. 9 – 23, 2023.  You could refinance your toy up to 2 points lower and earn $50!  Please visit with us for qualifying loans.",
+  },
+  {
+    title: "Visa Credit Card Special Offer",
+    description:
+      "If you would you like to pay off your credit card debt at a lower rate, this offer is for you!  Any balance transferred from Oct. 1 – 31 will have a fixed rate of 7.5% Annual Percentage Rate until the balance is paid off.  Call 903-753-5588 and ask for “Visa transfer offer” to get the full details and the transferred set up.",
+  },
+  {
+    title: "Halloween",
+    description:
+      "Please visit us on Tuesday, Oct. 31st - we will be handing out Halloween candy to everyone!",
+  },
+  {
+    title: "Christmas Loans",
+    description:
+      "Christmas Loans start on Nov. 1 and run through Jan. 15, 2024.  If you apply for your Christmas Loan using the online application, you will receive .25 off your rate.  Credit qualifications apply. Apply in Home Banking or your App starting November 1st! Christmas. Reminder, we have pretty gift cards and cash envelopes that make wonderful gifts of choice!  Please see the Teller department.",
   },
   {
     title: "CD Promotions",

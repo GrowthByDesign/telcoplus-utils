@@ -9,18 +9,6 @@ const News = () => {
             <strong>{news.title}</strong>
           </div>
           <div>{news.description}</div>
-          {news.linkText && news.link && (
-            <div>
-              <a
-                className="tw-bg-yellow-300 tw-underline"
-                href={news.link}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                {news.linkText}
-              </a>
-            </div>
-          )}
         </div>
       ))}
     </div>

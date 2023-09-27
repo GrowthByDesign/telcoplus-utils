@@ -2,7 +2,7 @@ import { holidayData } from "./holidayData";
 
 const Holiday = () => {
   return (
-    <div className="b-rad content-shadow-right tw-bg-brandingBlue-400 tw-p-4 tw-text-white">
+    <div className="b-rad content-shadow-right tw-mx-auto tw-mb-8 tw-max-w-[600px] tw-bg-brandingBlue-400 tw-p-4 tw-text-white">
       <div className="tw-pb-2 tw-text-center tw-text-2xl">
         <strong className="tw-font-bold">2023 Holiday Closures</strong>
       </div>
