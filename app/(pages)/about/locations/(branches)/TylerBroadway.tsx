@@ -10,13 +10,19 @@ const TylerBroadway = () => {
   return (
     <ContentSection>
       <Container>
-        <TwoCol >
-          <LocationImg imgSrc="https://www.telcoplus.org/wp-content/uploads/2023/03/TelcoPlusCU_Tyler-037-Edit-Edit-1.jpg" imgAlt="Broadway branch" />
+        <TwoCol>
+          <LocationImg
+            imgSrc="https://www.telcoplus.org/wp-content/uploads/2023/03/TelcoPlusCU_Tyler-037-Edit-Edit-1.jpg"
+            imgAlt="Broadway branch"
+          />
           <LocationColWrapper>
             <LocationsCol title="Tyler - Broadway" largeTitle>
               <div>7395 S Broadway Ave</div>
               <div>Tyler, TX 75703</div>
-              <div>Phone: <LinkText label="903-597-4321" href="tel:+1903-597-4321" /> or <LinkText label="800-492-7283" href="tel:+1800-492-7283" /></div>
+              <div>
+                Phone:{" "}
+                <LinkText label="903-597-4321" href="tel:+1903-597-4321" />
+              </div>
               <div>Fax: 903-534-3853</div>
             </LocationsCol>
             <LocationsCol title="Lobby Hours">
@@ -33,7 +39,7 @@ const TylerBroadway = () => {
         </TwoCol>
       </Container>
     </ContentSection>
-  )
-}
+  );
+};
 
 export default TylerBroadway;
