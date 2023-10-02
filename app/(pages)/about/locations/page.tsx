@@ -8,8 +8,8 @@ const Locations = () => {
       <MainBranch />
       <TylerBroadway />
       <Tyler1010 />
-    </div >
-  )
-}
+    </div>
+  );
+};
 
 export default Locations;

@@ -15,7 +15,9 @@ const MainBranch = () => {
             <LocationsCol title="Main Branch" largeTitle>
               <div>423 Gilmer Rd</div>
               <div>Longview, TX 75604</div>
-              <div>Phone: <LinkText href="tel:+9037535588" label="903-753-5588" /> or <LinkText href="tel:+18004927283" label="800-492-7283" /></div>
+              <div>
+                Phone: <LinkText href="tel:+9037535588" label="903-753-5588" />
+              </div>
               <div>Fax: 903-758-3903</div>
             </LocationsCol>
             <LocationsCol title="Lobby Hours">
@@ -29,11 +31,14 @@ const MainBranch = () => {
               <div>Sat: 9:00 a.m. - 12 p.m.*</div>
             </LocationsCol>
           </LocationColWrapper>
-          <LocationImg imgSrc="https://www.telcoplus.org/wp-content/uploads/2023/05/telco-sign.jpg" imgAlt="Main branch" />
+          <LocationImg
+            imgSrc="https://www.telcoplus.org/wp-content/uploads/2023/05/telco-sign.jpg"
+            imgAlt="Main branch"
+          />
         </TwoCol>
       </Container>
     </ContentSection>
-  )
-}
+  );
+};
 
 export default MainBranch;
