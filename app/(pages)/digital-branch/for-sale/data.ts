@@ -13,22 +13,13 @@ export type Repo = {
 export const repos: Repo[] = [
   {
     imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2023/09/toyota-4-runner.jpg",
-    title: "2018 Toyota 4 Runner",
-    engine: "SR5, 4.0L V6",
-    mileage: "99,044 miles in Longview",
-    color: "White Exterior",
-    startingPrice: "$24,995",
-    buyPrice: "$30,500",
-  },
-  {
-    imgSrc: "https://www.telcoplus.org/wp-content/uploads/2023/09/acadia.jpg",
-    title: "2017 GMC Acadia",
-    engine: "3.6 L V6",
-    mileage: "64,722 miles in Tyler",
-    color: "Silver Exterior",
-    startingPrice: "$16,995",
-    buyPrice: "$21,500",
+      "https://www.telcoplus.org/wp-content/uploads/2023/10/2018-gmc-sierra.jpg",
+    title: "2018 GMC Sierra 1500 Crew Cab",
+    engine: "4WD 5.3L V8 SLT",
+    mileage: "167,413 miles in Longview",
+    color: "Dark Green Exterior",
+    startingPrice: "$22,995",
+    buyPrice: "$25,995",
   },
   {
     imgSrc: "https://www.telcoplus.org/wp-content/uploads/2023/09/chevy-73.png",
