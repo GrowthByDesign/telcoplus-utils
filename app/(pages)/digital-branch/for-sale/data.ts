@@ -32,16 +32,6 @@ export const repos: Repo[] = [
   },
   {
     imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2023/09/niss-murano.png",
-    title: "2015 Nissan Murano",
-    engine: "3.5L V6",
-    mileage: "104,661 miles in Tyler",
-    color: "Gray Exterior",
-    startingPrice: "$11,995",
-    buyPrice: "$14,995",
-  },
-  {
-    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2023/05/2014-ford.jpg",
     title: "2014 Ford F-150 King Ranch",
     engine: "Crew Cab, 4WD 5.0L V8",
@@ -49,15 +39,6 @@ export const repos: Repo[] = [
     color: "Black and Tan Exterior",
     startingPrice: "$16,995",
     buyPrice: "$21,995",
-  },
-  {
-    imgSrc: "https://www.telcoplus.org/wp-content/uploads/2023/06/tahoe.jpg",
-    title: "2013 Chevy Tahoe",
-    engine: "4D 5.3L V8",
-    mileage: "192,986 miles in Longview",
-    color: "Silver Exterior",
-    startingPrice: "$12,995",
-    buyPrice: "$15,250",
   },
   {
     imgSrc:
@@ -78,15 +59,5 @@ export const repos: Repo[] = [
     color: "Black",
     startingPrice: "$15,995",
     buyPrice: "$17,995",
-  },
-  {
-    imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2023/07/chevy-sub-14.jpg",
-    title: "2014 Chevy Suburban",
-    engine: "",
-    mileage: "155,263 miles in Longview",
-    color: "Silver",
-    startingPrice: "$11,995",
-    buyPrice: "$13,995",
   },
 ];
