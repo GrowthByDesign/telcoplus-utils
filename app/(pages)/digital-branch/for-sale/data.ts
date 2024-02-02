@@ -13,6 +13,36 @@ export type Repo = {
 export const repos: Repo[] = [
   {
     imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2024/02/2015Suburban-white-scaled.jpg",
+    title: "2015 Chevy Suburban LTZ",
+    engine: "5.3L V8",
+    mileage: "168,510 miles in Longview",
+    color: "White",
+    startingPrice: "$17,000",
+    buyPrice: "$19,995",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2024/02/2012Suburban-gray-scaled.jpg",
+    title: "2012 Chevy Suburban LTZ",
+    engine: "5.3LS",
+    mileage: "164,496 miles in Longview",
+    color: "Gray",
+    startingPrice: "$8,500",
+    buyPrice: "$10,500",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2024/02/2013Acura-scaled.jpg",
+    title: "2013 Acura RDX",
+    engine: "4D, 3.5L V6",
+    mileage: "91,183 miles in Longview",
+    color: "Gray",
+    startingPrice: "$11,995",
+    buyPrice: "$13,995",
+  },
+  {
+    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2023/10/2018-gmc-sierra.jpg",
     title: "2018 GMC Sierra 1500 Crew Cab",
     engine: "4WD 5.3L V8 SLT",
