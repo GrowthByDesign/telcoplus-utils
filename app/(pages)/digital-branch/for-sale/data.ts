@@ -22,15 +22,6 @@ export const repos: Repo[] = [
     buyPrice: "$25,995",
   },
   {
-    imgSrc: "https://www.telcoplus.org/wp-content/uploads/2023/09/chevy-73.png",
-    title: "2016 Chevy Malibu",
-    engine: "4D Sedan, 2LT 2.0L Turbo",
-    mileage: "73,485 miles in Tyler",
-    color: "White Exterior",
-    startingPrice: "$11,995",
-    buyPrice: "$14,995",
-  },
-  {
     imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2023/05/2014-ford.jpg",
     title: "2014 Ford F-150 King Ranch",
