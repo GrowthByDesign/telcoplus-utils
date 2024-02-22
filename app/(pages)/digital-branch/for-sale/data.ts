@@ -33,7 +33,7 @@ export const repos: Repo[] = [
   },
   {
     imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2024/02/tahoe-2016-scaled.jpg",
+      "https://www.telcoplus.org/wp-content/uploads/2024/02/tahoe-2016SM.jpg",
     title: "2016 Chevy Tahoe LT",
     engine: "5.3L V8",
     mileage: "163,844 miles",
