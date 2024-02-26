@@ -23,16 +23,6 @@ export const repos: Repo[] = [
   },
   {
     imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2024/02/challenger-sxt-2015-scaled.jpg",
-    title: "2015 Dodge Challenger SXT",
-    engine: "3.6L V6",
-    mileage: "112,053 miles",
-    color: "Blue",
-    startingPrice: "$11,995",
-    buyPrice: "$14,995",
-  },
-  {
-    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2024/02/tahoe-2016SM.jpg",
     title: "2016 Chevy Tahoe LT",
     engine: "5.3L V8",
@@ -50,16 +40,6 @@ export const repos: Repo[] = [
     color: "White",
     startingPrice: "$17,000",
     buyPrice: "$19,995",
-  },
-  {
-    imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2024/02/2012Suburban-gray-scaled.jpg",
-    title: "2012 Chevy Suburban LTZ",
-    engine: "5.3LS",
-    mileage: "164,496 miles in Longview",
-    color: "Gray",
-    startingPrice: "$8,500",
-    buyPrice: "$10,500",
   },
   {
     imgSrc:
