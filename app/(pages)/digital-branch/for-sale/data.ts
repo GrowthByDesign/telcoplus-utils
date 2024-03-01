@@ -13,6 +13,16 @@ export type Repo = {
 export const repos: Repo[] = [
   {
     imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2024/03/2019-Chevy-Silverado-1500.jpg",
+    title: "2019 Chevy Silverado 1500 LT",
+    engine: "5.3L 4x4",
+    mileage: "81,732 miles",
+    color: "Black",
+    startingPrice: "$31,759",
+    buyPrice: "House of Cars (903) 534-0237",
+  },
+  {
+    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2024/02/challenger-rt-2013-scaled.jpg",
     title: "2013 Dodge Challenger R/T",
     engine: "5.7L V8",
