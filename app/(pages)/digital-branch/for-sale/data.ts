@@ -23,6 +23,46 @@ export const repos: Repo[] = [
   },
   {
     imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2024/03/2013-Chevy-Tahoe.jpg",
+    title: "2013 Chevy Tahoe LTZ",
+    engine: "5.3L V8 SFI Flex Flue Iron Block 4WD",
+    mileage: "142,941 miles",
+    color: "Champagne Silver Metallic",
+    startingPrice: "$17,950",
+    buyPrice: "House of Cars (903) 534-0237",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2024/03/2015-Ram-1500.jpg",
+    title: "2015 RAM 1500 Laramie Longhorn",
+    engine: "Crew Cab HEMI 5.7L V8 4WD",
+    mileage: "144,543 miles",
+    color: "White",
+    startingPrice: "$22,950",
+    buyPrice: "House of Cars (903) 534-0237",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2024/03/2018-Jeep-Grand-Cherokee.jpg",
+    title: "2018 Jeep Grand Cherokee",
+    engine: "Overland Sport Utility 3.6L V6 24V VVT RWD",
+    mileage: "100,062 miles",
+    color: "Black Crystal Pearlcoat",
+    startingPrice: "$20,900",
+    buyPrice: "House of Cars (903) 534-0237",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2024/03/2013-Cadillac-Escalade.jpg",
+    title: "2013 Cadillac Escalade",
+    engine: "Luxury Vortec 6.2L V8",
+    mileage: "134,998 miles",
+    color: "White Diamond Tricoat",
+    startingPrice: "$16,995",
+    buyPrice: "House of Cars (903) 534-0237",
+  },
+  {
+    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2024/02/challenger-rt-2013-scaled.jpg",
     title: "2013 Dodge Challenger R/T",
     engine: "5.7L V8",
