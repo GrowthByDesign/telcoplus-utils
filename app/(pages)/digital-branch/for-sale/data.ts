@@ -141,4 +141,34 @@ export const repos: Repo[] = [
     startingPrice: "$15,995",
     buyPrice: "$17,995",
   },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2024/03/ford-fusion.jpg",
+    title: "2013 Ford Fusion SE",
+    engine: "EcoBoost",
+    mileage: "140,820 miles",
+    color: "Black",
+    startingPrice: "$5,995",
+    buyPrice: "$6,995",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2024/03/ford-edge.jpg",
+    title: "2008 Ford Edge Limited",
+    engine: "",
+    mileage: "191,801 miles",
+    color: "White",
+    startingPrice: "$4,500",
+    buyPrice: "",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2024/03/nissan-rouge.jpg",
+    title: "2012 Nissan Rouge S",
+    engine: "AWD",
+    mileage: "154,465 miles",
+    color: "Black",
+    startingPrice: "$4,750",
+    buyPrice: "",
+  },
 ];
