@@ -126,10 +126,10 @@ export const repos: Repo[] = [
       "https://www.telcoplus.org/wp-content/uploads/2023/06/2018-f-150-edit.jpg",
     title: "2018 F150 4WD",
     engine: "Eco Boost, 4WD 2.7L V6 Turbo",
-    mileage: "160,452 miles in Longview",
+    mileage: "160,452 miles in Tyler",
     color: "White Exterior",
-    startingPrice: "$21,995",
-    buyPrice: "$25,995",
+    startingPrice: "$17,950",
+    buyPrice: "$20,500",
   },
   {
     imgSrc:
