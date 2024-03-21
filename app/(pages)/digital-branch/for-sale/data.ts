@@ -13,16 +13,6 @@ export type Repo = {
 export const repos: Repo[] = [
   {
     imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2024/03/2019-Chevy-Silverado-1500.jpg",
-    title: "2019 Chevy Silverado 1500 LT",
-    engine: "5.3L 4x4",
-    mileage: "81,732 miles",
-    color: "Black",
-    startingPrice: "$31,759",
-    buyPrice: "House of Cars (903) 534-0237",
-  },
-  {
-    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2024/03/2013-Chevy-Tahoe.jpg",
     title: "2013 Chevy Tahoe LTZ",
     engine: "5.3L V8 SFI Flex Flue Iron Block 4WD",
