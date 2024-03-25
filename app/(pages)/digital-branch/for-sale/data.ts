@@ -13,6 +13,36 @@ export type Repo = {
 export const repos: Repo[] = [
   {
     imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2024/03/2015-ford-f250.jpg",
+    title: "2015 Ford F-250SD Lariat",
+    engine: "4D Crew Cab, Power Stroke 6.7L V8 DI 32V",
+    mileage: "202,495 miles",
+    color: "White",
+    startingPrice: "$29,950",
+    buyPrice: "House of Cars, Tyler",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2024/03/2015-bmw.jpg",
+    title: "2015 BMW 3 Series 335i",
+    engine: "4D Sedan, 3.0L 6-Cylinder",
+    mileage: "86,161 miles",
+    color: "Black Sapphire Metallic",
+    startingPrice: "$17,950",
+    buyPrice: "House of Cars, Tyler",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2024/03/2016-corvette.jpg",
+    title: "2016 Chevrolet Corevette Stingray",
+    engine: "2LT, 2D Coupe, 6.2L V8",
+    mileage: "43,195 miles",
+    color: "Shark Gray Metallic",
+    startingPrice: "$40,950",
+    buyPrice: "House of Cars, Tyler",
+  },
+  {
+    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2024/03/2013-Chevy-Tahoe.jpg",
     title: "2013 Chevy Tahoe LTZ",
     engine: "5.3L V8 SFI Flex Flue Iron Block 4WD",
