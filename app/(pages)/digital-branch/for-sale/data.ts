@@ -13,16 +13,6 @@ export type Repo = {
 export const repos: Repo[] = [
   {
     imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2024/03/2015-ford-f250.jpg",
-    title: "2015 Ford F-250SD Lariat",
-    engine: "4D Crew Cab, Power Stroke 6.7L V8 DI 32V",
-    mileage: "202,495 miles",
-    color: "White",
-    startingPrice: "$29,950",
-    buyPrice: "House of Cars, Tyler",
-  },
-  {
-    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2024/03/2015-bmw.jpg",
     title: "2015 BMW 3 Series 335i",
     engine: "4D Sedan, 3.0L 6-Cylinder",
@@ -63,26 +53,6 @@ export const repos: Repo[] = [
   },
   {
     imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2024/03/2018-Jeep-Grand-Cherokee.jpg",
-    title: "2018 Jeep Grand Cherokee",
-    engine: "Overland Sport Utility 3.6L V6 24V VVT RWD",
-    mileage: "100,062 miles",
-    color: "Black Crystal Pearlcoat",
-    startingPrice: "$20,900",
-    buyPrice: "House of Cars (903) 534-0237",
-  },
-  {
-    imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2024/03/2013-Cadillac-Escalade.jpg",
-    title: "2013 Cadillac Escalade",
-    engine: "Luxury Vortec 6.2L V8",
-    mileage: "134,998 miles",
-    color: "White Diamond Tricoat",
-    startingPrice: "$16,995",
-    buyPrice: "House of Cars (903) 534-0237",
-  },
-  {
-    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2024/02/challenger-rt-2013-scaled.jpg",
     title: "2013 Dodge Challenger R/T",
     engine: "5.7L V8",
@@ -90,16 +60,6 @@ export const repos: Repo[] = [
     color: "Black",
     startingPrice: "$11,995",
     buyPrice: "$13,995",
-  },
-  {
-    imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2024/02/tahoe-2016SM.jpg",
-    title: "2016 Chevy Tahoe LT",
-    engine: "5.3L V8",
-    mileage: "163,844 miles",
-    color: "Black",
-    startingPrice: "$16,995",
-    buyPrice: "$18,995",
   },
   {
     imgSrc:
