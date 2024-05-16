@@ -13,6 +13,7 @@ export type Repo = {
 export const repos: Repo[] = [
   {
     imgSrc:
+<<<<<<< HEAD
       "https://www.telcoplus.org/wp-content/uploads/2024/05/2014-kia-optima.jpg",
     title: "2014 KIA Optima",
     engine: "4D LX 2.4L I4",
@@ -80,6 +81,25 @@ export const repos: Repo[] = [
     color: "Black",
     startingPrice: "$31,759",
     buyPrice: "House of Cars (903) 534-0237",
+=======
+      "https://www.telcoplus.org/wp-content/uploads/2024/03/2015-bmw.jpg",
+    title: "2015 BMW 3 Series 335i",
+    engine: "4D Sedan, 3.0L 6-Cylinder",
+    mileage: "86,161 miles",
+    color: "Black Sapphire Metallic",
+    startingPrice: "$17,950",
+    buyPrice: "House of Cars, Tyler",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2024/03/2016-corvette.jpg",
+    title: "2016 Chevrolet Corevette Stingray",
+    engine: "2LT, 2D Coupe, 6.2L V8",
+    mileage: "43,195 miles",
+    color: "Shark Gray Metallic",
+    startingPrice: "$40,950",
+    buyPrice: "House of Cars, Tyler",
+>>>>>>> cab21de833ded5d02df4a6396245a38b669bc0e8
   },
   {
     imgSrc:
@@ -103,26 +123,6 @@ export const repos: Repo[] = [
   },
   {
     imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2024/03/2018-Jeep-Grand-Cherokee.jpg",
-    title: "2018 Jeep Grand Cherokee",
-    engine: "Overland Sport Utility 3.6L V6 24V VVT RWD",
-    mileage: "100,062 miles",
-    color: "Black Crystal Pearlcoat",
-    startingPrice: "$20,900",
-    buyPrice: "House of Cars (903) 534-0237",
-  },
-  {
-    imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2024/03/2013-Cadillac-Escalade.jpg",
-    title: "2013 Cadillac Escalade",
-    engine: "Luxury Vortec 6.2L V8",
-    mileage: "134,998 miles",
-    color: "White Diamond Tricoat",
-    startingPrice: "$16,995",
-    buyPrice: "House of Cars (903) 534-0237",
-  },
-  {
-    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2024/02/challenger-rt-2013-scaled.jpg",
     title: "2013 Dodge Challenger R/T",
     engine: "5.7L V8",
@@ -130,16 +130,6 @@ export const repos: Repo[] = [
     color: "Black",
     startingPrice: "$11,995",
     buyPrice: "$13,995",
-  },
-  {
-    imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2024/02/tahoe-2016SM.jpg",
-    title: "2016 Chevy Tahoe LT",
-    engine: "5.3L V8",
-    mileage: "163,844 miles",
-    color: "Black",
-    startingPrice: "$16,995",
-    buyPrice: "$18,995",
   },
   {
     imgSrc:
@@ -186,10 +176,10 @@ export const repos: Repo[] = [
       "https://www.telcoplus.org/wp-content/uploads/2023/06/2018-f-150-edit.jpg",
     title: "2018 F150 4WD",
     engine: "Eco Boost, 4WD 2.7L V6 Turbo",
-    mileage: "160,452 miles in Longview",
+    mileage: "160,452 miles in Tyler",
     color: "White Exterior",
-    startingPrice: "$21,995",
-    buyPrice: "$25,995",
+    startingPrice: "$17,950",
+    buyPrice: "$20,500",
   },
   {
     imgSrc:
