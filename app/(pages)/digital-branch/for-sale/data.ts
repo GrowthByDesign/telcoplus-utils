@@ -13,7 +13,6 @@ export type Repo = {
 export const repos: Repo[] = [
   {
     imgSrc:
-<<<<<<< HEAD
       "https://www.telcoplus.org/wp-content/uploads/2024/05/2014-kia-optima.jpg",
     title: "2014 KIA Optima",
     engine: "4D LX 2.4L I4",
@@ -81,8 +80,9 @@ export const repos: Repo[] = [
     color: "Black",
     startingPrice: "$31,759",
     buyPrice: "House of Cars (903) 534-0237",
-=======
-      "https://www.telcoplus.org/wp-content/uploads/2024/03/2015-bmw.jpg",
+  },
+  {
+    imgSrc:  "https://www.telcoplus.org/wp-content/uploads/2024/03/2015-bmw.jpg",
     title: "2015 BMW 3 Series 335i",
     engine: "4D Sedan, 3.0L 6-Cylinder",
     mileage: "86,161 miles",
@@ -99,27 +99,6 @@ export const repos: Repo[] = [
     color: "Shark Gray Metallic",
     startingPrice: "$40,950",
     buyPrice: "House of Cars, Tyler",
->>>>>>> cab21de833ded5d02df4a6396245a38b669bc0e8
-  },
-  {
-    imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2024/03/2013-Chevy-Tahoe.jpg",
-    title: "2013 Chevy Tahoe LTZ",
-    engine: "5.3L V8 SFI Flex Flue Iron Block 4WD",
-    mileage: "142,941 miles",
-    color: "Champagne Silver Metallic",
-    startingPrice: "$17,950",
-    buyPrice: "House of Cars (903) 534-0237",
-  },
-  {
-    imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2024/03/2015-Ram-1500.jpg",
-    title: "2015 RAM 1500 Laramie Longhorn",
-    engine: "Crew Cab HEMI 5.7L V8 4WD",
-    mileage: "144,543 miles",
-    color: "White",
-    startingPrice: "$22,950",
-    buyPrice: "House of Cars (903) 534-0237",
   },
   {
     imgSrc:
@@ -183,26 +162,6 @@ export const repos: Repo[] = [
   },
   {
     imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2023/07/chevy-1500.jpg",
-    title: "2014 Chevy 1500",
-    engine: "4WD 5.3L V8",
-    mileage: "129,101 miles in Longview",
-    color: "Black",
-    startingPrice: "$15,995",
-    buyPrice: "$17,995",
-  },
-  {
-    imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2024/03/ford-fusion.jpg",
-    title: "2013 Ford Fusion SE",
-    engine: "EcoBoost",
-    mileage: "140,820 miles",
-    color: "Black",
-    startingPrice: "$5,995",
-    buyPrice: "$6,995",
-  },
-  {
-    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2024/03/ford-edge.jpg",
     title: "2008 Ford Edge Limited",
     engine: "",
@@ -211,14 +170,5 @@ export const repos: Repo[] = [
     startingPrice: "$4,500",
     buyPrice: "",
   },
-  {
-    imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2024/03/nissan-rouge.jpg",
-    title: "2012 Nissan Rouge S",
-    engine: "AWD",
-    mileage: "154,465 miles",
-    color: "Black",
-    startingPrice: "$4,750",
-    buyPrice: "",
-  },
+
 ];
