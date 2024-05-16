@@ -13,6 +13,66 @@ export type Repo = {
 export const repos: Repo[] = [
   {
     imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2024/05/2014-kia-optima.jpg",
+    title: "2014 KIA Optima",
+    engine: "4D LX 2.4L I4",
+    mileage: "152,490 miles",
+    color: "Black",
+    startingPrice: "$4,000",
+    buyPrice: "$5,699",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2024/05/2015-dodge-ram.jpg",
+    title: "2015 Ram 1500 Crew Cab SLT",
+    engine: "4WD 5.7L V8",
+    mileage: "144,516 miles",
+    color: "Gray",
+    startingPrice: "$14,995",
+    buyPrice: "$16,995",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2024/05/2017-ford-explorer.jpg",
+    title: "2017 Ford Explorer XLT",
+    engine: "Eco Boost 2.3L I4 Turbo",
+    mileage: "104,570 miles",
+    color: "Black",
+    startingPrice: "$12,000",
+    buyPrice: "$14,500",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2024/05/2017-ford-f150.jpg",
+    title: "2017 Ford F150 Crew Cab XLT",
+    engine: "Eco Boost, 3.5L V6 Turbo",
+    mileage: "144,613 miles",
+    color: "White",
+    startingPrice: "$19,995",
+    buyPrice: "$21,195",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2024/05/2018-toyota-camry.jpg",
+    title: "2018 Toyota Camry",
+    engine: "4D LE 2.5L I4",
+    mileage: "131,506 miles",
+    color: "White",
+    startingPrice: "$12,995",
+    buyPrice: "$15,495",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2024/05/2013-nissan-altima.jpg",
+    title: "2013 Nissan Altima",
+    engine: "4D SL 2.5L I4",
+    mileage: "212,076 miles",
+    color: "White",
+    startingPrice: "$3,500",
+    buyPrice: "$4,995",
+  },
+  {
+    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2024/03/2019-Chevy-Silverado-1500.jpg",
     title: "2019 Chevy Silverado 1500 LT",
     engine: "5.3L 4x4",
