@@ -13,6 +13,16 @@ export type Repo = {
 export const repos: Repo[] = [
   {
     imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2024/05/2014-F150.jpg",
+    title: "2014 F-150 King Ranch 4WD",
+    engine: "Crew cab, 5.0L V8",
+    mileage: "135,500 miles",
+    color: "Brown",
+    startingPrice: "$16,995",
+    buyPrice: "$19,995",
+  },
+  {
+    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2024/05/2014-kia-optima.jpg",
     title: "2014 KIA Optima",
     engine: "4D LX 2.4L I4",
