@@ -152,16 +152,6 @@ export const repos: Repo[] = [
   },
   {
     imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2023/05/2014-ford.jpg",
-    title: "2014 Ford F-150 King Ranch",
-    engine: "Crew Cab, 4WD 5.0L V8",
-    mileage: "135,173 miles in Longview",
-    color: "Black and Tan Exterior",
-    startingPrice: "$16,995",
-    buyPrice: "$21,995",
-  },
-  {
-    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2023/06/2018-f-150-edit.jpg",
     title: "2018 F150 4WD",
     engine: "Eco Boost, 4WD 2.7L V6 Turbo",
@@ -169,16 +159,6 @@ export const repos: Repo[] = [
     color: "White Exterior",
     startingPrice: "$17,950",
     buyPrice: "$20,500",
-  },
-  {
-    imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2024/03/ford-edge.jpg",
-    title: "2008 Ford Edge Limited",
-    engine: "",
-    mileage: "191,801 miles",
-    color: "White",
-    startingPrice: "$4,500",
-    buyPrice: "",
   },
 
 ];
