@@ -13,6 +13,26 @@ export type Repo = {
 export const repos: Repo[] = [
   {
     imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2024/06/2015-dodge-challenger-scaled-e1718029132475.jpg",
+    title: "2015 Dodge Challenger Coupe",
+    engine: "SXT, 3.6L V6",
+    mileage: "121,133 miles",
+    color: "Blue",
+    startingPrice: "$13,995",
+    buyPrice: "$15,000",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2024/06/2014-dodge-durango.jpg",
+    title: "2014 Dodge Durango",
+    engine: "3.6L V6",
+    mileage: "137,500 miles",
+    color: "Black",
+    startingPrice: "$8,995",
+    buyPrice: "$10,000",
+  },
+  {
+    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2024/05/2014-F150.jpg",
     title: "2014 F-150 King Ranch 4WD",
     engine: "Crew cab, 5.0L V8",
