@@ -13,6 +13,16 @@ export type Repo = {
 export const repos: Repo[] = [
   {
     imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2024/06/2014-dodge-durango.jpg",
+    title: "2014 Dodge Durango",
+    engine: "3.6L V6",
+    mileage: "137,500 miles",
+    color: "Black",
+    startingPrice: "$8,995",
+    buyPrice: "$10,000",
+  },
+  {
+    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2024/05/2014-F150.jpg",
     title: "2014 F-150 King Ranch 4WD",
     engine: "Crew cab, 5.0L V8",
@@ -83,25 +93,6 @@ export const repos: Repo[] = [
   },
   {
     imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2024/03/2019-Chevy-Silverado-1500.jpg",
-    title: "2019 Chevy Silverado 1500 LT",
-    engine: "5.3L 4x4",
-    mileage: "81,732 miles",
-    color: "Black",
-    startingPrice: "$31,759",
-    buyPrice: "House of Cars (903) 534-0237",
-  },
-  {
-    imgSrc:  "https://www.telcoplus.org/wp-content/uploads/2024/03/2015-bmw.jpg",
-    title: "2015 BMW 3 Series 335i",
-    engine: "4D Sedan, 3.0L 6-Cylinder",
-    mileage: "86,161 miles",
-    color: "Black Sapphire Metallic",
-    startingPrice: "$17,950",
-    buyPrice: "House of Cars, Tyler",
-  },
-  {
-    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2024/03/2016-corvette.jpg",
     title: "2016 Chevrolet Corevette Stingray",
     engine: "2LT, 2D Coupe, 6.2L V8",
@@ -109,46 +100,6 @@ export const repos: Repo[] = [
     color: "Shark Gray Metallic",
     startingPrice: "$40,950",
     buyPrice: "House of Cars, Tyler",
-  },
-  {
-    imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2024/02/challenger-rt-2013-scaled.jpg",
-    title: "2013 Dodge Challenger R/T",
-    engine: "5.7L V8",
-    mileage: "111,909 miles",
-    color: "Black",
-    startingPrice: "$11,995",
-    buyPrice: "$13,995",
-  },
-  {
-    imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2024/02/2015Suburban-white-scaled.jpg",
-    title: "2015 Chevy Suburban LTZ",
-    engine: "5.3L V8",
-    mileage: "168,510 miles in Longview",
-    color: "White",
-    startingPrice: "$17,000",
-    buyPrice: "$19,995",
-  },
-  {
-    imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2024/02/2013Acura-scaled.jpg",
-    title: "2013 Acura RDX",
-    engine: "4D, 3.5L V6",
-    mileage: "91,183 miles in Longview",
-    color: "Gray",
-    startingPrice: "$11,995",
-    buyPrice: "$13,995",
-  },
-  {
-    imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2023/10/2018-gmc-sierra.jpg",
-    title: "2018 GMC Sierra 1500 Crew Cab",
-    engine: "4WD 5.3L V8 SLT",
-    mileage: "167,413 miles in Longview",
-    color: "Dark Green Exterior",
-    startingPrice: "$22,995",
-    buyPrice: "$25,995",
   },
   {
     imgSrc:
