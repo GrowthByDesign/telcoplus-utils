@@ -13,16 +13,6 @@ export type Repo = {
 export const repos: Repo[] = [
   {
     imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2024/07/fiat-trekking17-scaled.jpg",
-    title: "2017 Fiat 500X Trekking",
-    engine: "4D 2.4L I4",
-    mileage: "76,457 miles",
-    color: "Yellow",
-    startingPrice: "",
-    buyPrice: "$12,250",
-  },
-  {
-    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2024/07/chevy-malibu20-scaled.jpg",
     title: "2020 Chevy Malibu",
     engine: "4D LT 1.5L",
