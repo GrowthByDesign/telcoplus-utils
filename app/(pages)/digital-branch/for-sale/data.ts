@@ -13,6 +13,26 @@ export type Repo = {
 export const repos: Repo[] = [
   {
     imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2024/09/2016-sierra.jpg",
+    title: "2016 GM Sierra 1500 Extended Cab",
+    engine: "4WD 5.3L V8",
+    mileage: "155,519 miles",
+    color: "Black",
+    startingPrice: "$17,995",
+    buyPrice: "$19,995",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2024/09/2015-dodge-challenger-scaled.jpg",
+    title: "2015 Dodge Challenger",
+    engine: "2D coupe, SXT 3.6L V6",
+    mileage: "121,133 miles",
+    color: "Navy Blue",
+    startingPrice: "$13,995",
+    buyPrice: "$15,000",
+  },
+  {
+    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2024/07/chevy-malibu20-scaled.jpg",
     title: "2020 Chevy Malibu",
     engine: "4D LT 1.5L",
