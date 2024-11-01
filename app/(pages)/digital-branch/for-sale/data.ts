@@ -18,7 +18,7 @@ export const repos: Repo[] = [
     engine: "2D 4WD 3.6L V6",
     mileage: "134,419 miles",
     color: "Black",
-    startingPrice: "&nbsp;",
+    startingPrice: "",
     buyPrice: "$8,995",
   },
   {
@@ -28,7 +28,7 @@ export const repos: Repo[] = [
     engine: "4D LT 5.3L V8",
     mileage: "208,791 miles",
     color: "Cranberry",
-    startingPrice: "&nbsp;",
+    startingPrice: "",
     buyPrice: "$13,995",
   },
   {
