@@ -13,6 +13,26 @@ export type Repo = {
 export const repos: Repo[] = [
   {
     imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2024/11/2012-Jeep-scaled.jpg",
+    title: "2012 Jeep Wrangler",
+    engine: "2D 4WD 3.6L V6",
+    mileage: "134,419 miles",
+    color: "Black",
+    startingPrice: "&nbsp;",
+    buyPrice: "$8,995",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2024/11/2016-suburban-scaled.jpg",
+    title: "2016 Chevy Suburban 1500",
+    engine: "4D LT 5.3L V8",
+    mileage: "208,791 miles",
+    color: "Cranberry",
+    startingPrice: "&nbsp;",
+    buyPrice: "$13,995",
+  },
+  {
+    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2024/09/2015-dodge-challenger-scaled.jpg",
     title: "2015 Dodge Challenger",
     engine: "2D coupe, SXT 3.6L V6",
