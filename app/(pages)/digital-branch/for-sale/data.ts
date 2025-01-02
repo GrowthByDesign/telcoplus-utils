@@ -13,6 +13,16 @@ export type Repo = {
 export const repos: Repo[] = [
   {
     imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/01/2017-Mercedes-rotated.jpg",
+    title: "2017 Mercedes C-Class",
+    engine: "C300 AWD 2.0L I4 Turbo",
+    mileage: "70,546 miles",
+    color: "Black",
+    startingPrice: "$14,500",
+    buyPrice: "$16,995",
+  },
+  {
+    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2024/11/2012-Jeep-scaled.jpg",
     title: "2012 Jeep Wrangler",
     engine: "2D 4WD 3.6L V6",
