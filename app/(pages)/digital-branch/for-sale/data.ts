@@ -13,6 +13,36 @@ export type Repo = {
 export const repos: Repo[] = [
   {
     imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/01/infiniti-qx60.jpg",
+    title: "2018 Infiniti QX60 SUV",
+    engine: "3.5L V6",
+    mileage: "120,697 miles",
+    color: "White",
+    startingPrice: "$10,500",
+    buyPrice: "$12,000",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/01/lincoln-mkx.jpg",
+    title: "2016 Lincoln MKX SUV",
+    engine: "3.7L V6",
+    mileage: "175,892 miles",
+    color: "White",
+    startingPrice: "$9,000",
+    buyPrice: "$11,000",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/01/silverado-1500-scaled.jpg",
+    title: "2019 Chevy Silverado 1500 4x4",
+    engine: "Custom Trail Boss, 3.5L V8",
+    mileage: "203,434 miles",
+    color: "Silver",
+    startingPrice: "$15,500",
+    buyPrice: "$18,500",
+  },
+  {
+    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/01/2017-Mercedes-rotated.jpg",
     title: "2017 Mercedes C-Class",
     engine: "C300 AWD 2.0L I4 Turbo",
