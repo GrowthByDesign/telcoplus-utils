@@ -13,8 +13,18 @@ export type Repo = {
 export const repos: Repo[] = [
   {
     imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2024/01/2021DodgeRam-scaled.jpg",
+    title: "2021 RAM 1500 - Kilgore Branch",
+    engine: "Bighorn/Lone Star ETORQUE 5.7L V8",
+    mileage: "38,365 miles",
+    color: "Gray",
+    startingPrice: "",
+    buyPrice: "$37,000",
+  },
+  {
+    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/01/infiniti-qx60.jpg",
-    title: "2018 Infiniti QX60 SUV",
+    title: "2018 Infiniti QX60 SUV - Tyler Branch",
     engine: "3.5L V6",
     mileage: "120,697 miles",
     color: "White",
@@ -24,7 +34,7 @@ export const repos: Repo[] = [
   {
     imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/01/lincoln-mkx.jpg",
-    title: "2016 Lincoln MKX SUV",
+    title: "2016 Lincoln MKX SUV - Tyler Branch",
     engine: "3.7L V6",
     mileage: "175,892 miles",
     color: "White",
@@ -34,7 +44,7 @@ export const repos: Repo[] = [
   {
     imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/01/silverado-1500-scaled.jpg",
-    title: "2019 Chevy Silverado 1500 4x4",
+    title: "2019 Chevy Silverado 1500 4x4 - Tyler Branch",
     engine: "Custom Trail Boss, 3.5L V8",
     mileage: "203,434 miles",
     color: "Silver",
@@ -44,7 +54,7 @@ export const repos: Repo[] = [
   {
     imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/01/2017-Mercedes-rotated.jpg",
-    title: "2017 Mercedes C-Class",
+    title: "2017 Mercedes C-Class - Tyler Branch",
     engine: "C300 AWD 2.0L I4 Turbo",
     mileage: "70,546 miles",
     color: "Black",
@@ -53,33 +63,13 @@ export const repos: Repo[] = [
   },
   {
     imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2024/11/2012-Jeep-scaled.jpg",
-    title: "2012 Jeep Wrangler",
-    engine: "2D 4WD 3.6L V6",
-    mileage: "134,419 miles",
-    color: "Black",
-    startingPrice: "",
-    buyPrice: "$8,995",
-  },
-  {
-    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2024/11/2016-suburban-scaled.jpg",
-    title: "2016 Chevy Suburban 1500",
+    title: "2016 Chevy Suburban 1500 - Longview Branch",
     engine: "4D LT 5.3L V8",
     mileage: "208,791 miles",
     color: "Cranberry",
     startingPrice: "",
     buyPrice: "$13,995",
-  },
-  {
-    imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2024/09/2015-dodge-challenger-scaled.jpg",
-    title: "2015 Dodge Challenger",
-    engine: "2D coupe, SXT 3.6L V6",
-    mileage: "121,133 miles",
-    color: "Navy Blue",
-    startingPrice: "$13,995",
-    buyPrice: "$15,000",
   },
   {
     imgSrc:
