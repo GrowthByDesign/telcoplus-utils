@@ -13,6 +13,26 @@ export type Repo = {
 export const repos: Repo[] = [
   {
     imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/01/2012-f150-scaled.jpg",
+    title: "2012 F150 Regular Cab - Kilgore Branch",
+    engine: "STX 5.0L V8",
+    mileage: "184,822 miles",
+    color: "Gray",
+    startingPrice: "",
+    buyPrice: "$7,500",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/01/20250116_133210_resized.jpg",
+    title: "2018 Mazda CX-5 AWD - Longview Branch",
+    engine: "2.5L I4 Auto",
+    mileage: "123,679 miles",
+    color: "Silver",
+    startingPrice: "$12,000",
+    buyPrice: "$15,000",
+  },
+  {
+    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2024/01/2021DodgeRam-scaled.jpg",
     title: "2021 RAM 1500 - Kilgore Branch",
     engine: "Bighorn/Lone Star ETORQUE 5.7L V8",
@@ -74,12 +94,12 @@ export const repos: Repo[] = [
   {
     imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2024/05/2014-F150.jpg",
-    title: "2014 F-150 King Ranch 4WD",
+    title: "2014 F-150 King Ranch 4WD - Longview",
     engine: "Crew cab, 5.0L V8",
     mileage: "135,500 miles",
     color: "Brown",
     startingPrice: "$16,995",
-    buyPrice: "$19,995",
+    buyPrice: "$17,500",
   },
   {
     imgSrc:
