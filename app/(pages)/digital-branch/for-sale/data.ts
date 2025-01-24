@@ -13,6 +13,16 @@ export type Repo = {
 export const repos: Repo[] = [
   {
     imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/01/2014-ford-f150.jpg",
+    title: "2014 Ford F150 4WD",
+    engine: "Crew Cab Limited, ECO Boost 3.5L V6 Turbo",
+    mileage: "126,000 miles",
+    color: "Black",
+    startingPrice: "$17,500",
+    buyPrice: "$19,995",
+  },
+  {
+    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/01/2013-ford-f150-scaled.jpg",
     title: "2013 Ford F150 4WD",
     engine: "Crew Cab Limited, ECO Boost 3.5L V6 Turbo",
