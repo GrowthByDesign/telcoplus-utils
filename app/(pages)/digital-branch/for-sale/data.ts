@@ -13,8 +13,28 @@ export type Repo = {
 export const repos: Repo[] = [
   {
     imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/01/20250127_122930-01-scaled.jpeg",
+    title: "2011 Chevy Silverado, 2500 HD 4x4 Longview",
+    engine: "Crew Cab 6.0 L V8",
+    mileage: "126,450 miles",
+    color: "Red",
+    startingPrice: "$17,500",
+    buyPrice: "$19,250",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/01/IMG_1733-scaled.jpg",
+    title: "2024 Kia Forte LXS Tyler",
+    engine: "2.0 L  i4",
+    mileage: "16,490 miles",
+    color: "Silver",
+    startingPrice: "$18,900",
+    buyPrice: "$21,900",
+  },
+  {
+    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/01/2014-ford-f150.jpg",
-    title: "2014 Ford F150 4WD",
+    title: "2014 Ford F150 4WD LongView",
     engine: "Crew Cab Limited, ECO Boost 3.5L V6 Turbo",
     mileage: "126,000 miles",
     color: "Black",
@@ -24,7 +44,7 @@ export const repos: Repo[] = [
   {
     imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/01/2013-ford-f150-scaled.jpg",
-    title: "2013 Ford F150 4WD",
+    title: "2013 Ford F150 4WD LongView",
     engine: "Crew Cab Limited, ECO Boost 3.5L V6 Turbo",
     mileage: "149,822 miles",
     color: "White",
@@ -64,7 +84,7 @@ export const repos: Repo[] = [
   {
     imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/01/infiniti-qx60.jpg",
-    title: "2018 Infiniti QX60 SUV - Tyler Branch",
+    title: "2018 Infiniti QX60 SUV - Tyler",
     engine: "3.5L V6",
     mileage: "120,697 miles",
     color: "White",
