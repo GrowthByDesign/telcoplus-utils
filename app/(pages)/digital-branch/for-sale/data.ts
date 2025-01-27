@@ -34,7 +34,7 @@ export const repos: Repo[] = [
   {
     imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/01/2014-ford-f150.jpg",
-    title: "2014 Ford F150 4WD LongView",
+    title: "2014 Ford F150 4WD Longview",
     engine: "Crew Cab Limited, ECO Boost 3.5L V6 Turbo",
     mileage: "126,000 miles",
     color: "Black",
@@ -44,7 +44,7 @@ export const repos: Repo[] = [
   {
     imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/01/2013-ford-f150-scaled.jpg",
-    title: "2013 Ford F150 4WD LongView",
+    title: "2013 Ford F150 4WD Longview",
     engine: "Crew Cab Limited, ECO Boost 3.5L V6 Turbo",
     mileage: "149,822 miles",
     color: "White",
@@ -54,7 +54,7 @@ export const repos: Repo[] = [
   {
     imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/01/2012-f150-scaled.jpg",
-    title: "2012 F150 Regular Cab - Kilgore Branch",
+    title: "2012 F150 Regular Cab - Kilgore",
     engine: "STX 5.0L V8",
     mileage: "184,822 miles",
     color: "Gray",
@@ -64,7 +64,7 @@ export const repos: Repo[] = [
   {
     imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/01/20250116_133210_resized.jpg",
-    title: "2018 Mazda CX-5 AWD - Longview Branch",
+    title: "2018 Mazda CX-5 AWD - Longview",
     engine: "2.5L I4 Auto",
     mileage: "123,679 miles",
     color: "Silver",
@@ -74,7 +74,7 @@ export const repos: Repo[] = [
   {
     imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2024/01/2021DodgeRam-scaled.jpg",
-    title: "2021 RAM 1500 - Kilgore Branch",
+    title: "2021 RAM 1500 - Kilgore",
     engine: "Bighorn/Lone Star ETORQUE 5.7L V8",
     mileage: "38,365 miles",
     color: "Gray",
@@ -94,7 +94,7 @@ export const repos: Repo[] = [
   {
     imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/01/lincoln-mkx.jpg",
-    title: "2016 Lincoln MKX SUV - Tyler Branch",
+    title: "2016 Lincoln MKX SUV - Tyler",
     engine: "3.7L V6",
     mileage: "175,892 miles",
     color: "White",
@@ -104,7 +104,7 @@ export const repos: Repo[] = [
   {
     imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/01/silverado-1500-scaled.jpg",
-    title: "2019 Chevy Silverado 1500 4x4 - Tyler Branch",
+    title: "2019 Chevy Silverado 1500 4x4 - Tyler",
     engine: "Custom Trail Boss, 3.5L V8",
     mileage: "203,434 miles",
     color: "Silver",
@@ -114,7 +114,7 @@ export const repos: Repo[] = [
   {
     imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/01/2017-Mercedes-rotated.jpg",
-    title: "2017 Mercedes C-Class - Tyler Branch",
+    title: "2017 Mercedes C-Class - Tyler",
     engine: "C300 AWD 2.0L I4 Turbo",
     mileage: "70,546 miles",
     color: "Black",
@@ -124,7 +124,7 @@ export const repos: Repo[] = [
   {
     imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2024/11/2016-suburban-scaled.jpg",
-    title: "2016 Chevy Suburban 1500 - Longview Branch",
+    title: "2016 Chevy Suburban 1500 - Longview",
     engine: "4D LT 5.3L V8",
     mileage: "208,791 miles",
     color: "Cranberry",
