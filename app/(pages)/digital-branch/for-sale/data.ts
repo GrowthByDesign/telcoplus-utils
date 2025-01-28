@@ -13,8 +13,18 @@ export type Repo = {
 export const repos: Repo[] = [
   {
     imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/01/20250127_163016_resized.jpg",
+    title: "2013 Ford F150 Limited 4x4 - Longview",
+    engine: "Crew Cab, Eco Boost, 3.5L V6 Turbo New motor",
+    mileage: "221,633 miles",
+    color: "White",
+    startingPrice: "$11,650",
+    buyPrice: "$14,650",
+  },
+  {
+    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/01/20250127_122930-01-scaled.jpeg",
-    title: "2011 Chevy Silverado, 2500 HD 4x4 Longview",
+    title: "2011 Chevy Silverado, 2500 HD 4x4 - Longview",
     engine: "Crew Cab 6.0 L V8",
     mileage: "126,450 miles",
     color: "Red",
@@ -24,7 +34,7 @@ export const repos: Repo[] = [
   {
     imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/01/IMG_1733-scaled.jpg",
-    title: "2024 Kia Forte LXS Tyler",
+    title: "2024 Kia Forte LXS - Tyler",
     engine: "2.0 L  i4",
     mileage: "16,490 miles",
     color: "Silver",
@@ -34,7 +44,7 @@ export const repos: Repo[] = [
   {
     imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/01/2014-ford-f150.jpg",
-    title: "2014 Ford F150 4WD Longview",
+    title: "2014 Ford F150 4WD - Longview",
     engine: "Crew Cab Limited, ECO Boost 3.5L V6 Turbo",
     mileage: "126,000 miles",
     color: "Black",
@@ -44,7 +54,7 @@ export const repos: Repo[] = [
   {
     imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/01/2013-ford-f150-scaled.jpg",
-    title: "2013 Ford F150 4WD Longview",
+    title: "2013 Ford F150 4WD - Longview",
     engine: "Crew Cab Limited, ECO Boost 3.5L V6 Turbo",
     mileage: "149,822 miles",
     color: "White",
