@@ -13,6 +13,16 @@ export type Repo = {
 export const repos: Repo[] = [
   {
     imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/02/20250204_163651-scaled.jpg",
+    title: "2018 Ford F150 XL 4x4WD - Longview",
+    engine: "5.0L V8",
+    mileage: "158,865 miles",
+    color: "White",
+    startingPrice: "$15,950",
+    buyPrice: "$17,950",
+  },
+  {
+    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/01/20250127_163016_resized.jpg",
     title: "2013 Ford F150 Limited 4x4 - Longview",
     engine: "Crew Cab, Eco Boost, 3.5L V6 Turbo New motor",
