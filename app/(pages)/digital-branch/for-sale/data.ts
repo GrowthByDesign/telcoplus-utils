@@ -164,22 +164,12 @@ export const repos: Repo[] = [
   {
     imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2024/05/2018-toyota-camry.jpg",
-    title: "2018 Toyota Camry",
+    title: "2018 Toyota Camry - Longview",
     engine: "4D LE 2.5L I4",
     mileage: "131,506 miles",
     color: "White",
     startingPrice: "$12,995",
     buyPrice: "$15,495",
-  },
-  {
-    imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2024/03/2016-corvette.jpg",
-    title: "2016 Chevrolet Corevette Stingray",
-    engine: "2LT, 2D Coupe, 6.2L V8",
-    mileage: "43,195 miles",
-    color: "Shark Gray Metallic",
-    startingPrice: "$40,950",
-    buyPrice: "House of Cars, Tyler",
-  },
+  }
 
 ];
