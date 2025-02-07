@@ -13,6 +13,16 @@ export type Repo = {
 export const repos: Repo[] = [
   {
     imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/02/IMG_1193.jpg",
+    title: "2017 Jeep Wrangler Unlimited Sahara - Tyler",
+    engine: "3.6L V6, 4x4",
+    mileage: "80,759 miles",
+    color: "Black",
+    startingPrice: "$21,000",
+    buyPrice: "$21,000",
+  },
+  {
+    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/02/20250204_163651-scaled.jpg",
     title: "2018 Ford F150 XL 4x4WD - Longview",
     engine: "5.0L V8",
