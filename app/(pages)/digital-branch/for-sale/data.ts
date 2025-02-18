@@ -13,16 +13,6 @@ export type Repo = {
 export const repos: Repo[] = [
   {
     imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2025/02/IMG_1193.jpg",
-    title: "2017 Jeep Wrangler Unlimited Sahara - Tyler",
-    engine: "3.6L V6, 4x4",
-    mileage: "80,759 miles",
-    color: "Black",
-    startingPrice: "$21,000",
-    buyPrice: "$21,000",
-  },
-  {
-    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/02/20250204_163651-scaled.jpg",
     title: "2018 Ford F150 XL 4x4WD - Longview",
     engine: "5.0L V8",
@@ -80,16 +70,6 @@ export const repos: Repo[] = [
     color: "White",
     startingPrice: "$18,500",
     buyPrice: "$20,000",
-  },
-  {
-    imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2025/01/2012-f150-scaled.jpg",
-    title: "2012 F150 Regular Cab - Kilgore",
-    engine: "STX 5.0L V8",
-    mileage: "184,822 miles",
-    color: "Gray",
-    startingPrice: "",
-    buyPrice: "$7,500",
   },
   {
     imgSrc:
