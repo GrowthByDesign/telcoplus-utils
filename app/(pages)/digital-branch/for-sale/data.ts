@@ -158,7 +158,7 @@ export const repos: Repo[] = [
     engine: "4D LE 2.5L I4",
     mileage: "131,506 miles",
     color: "White",
-    startingPrice: "$12,995",
+    startingPrice: "$10,750",
     buyPrice: "$15,495",
   }
 
