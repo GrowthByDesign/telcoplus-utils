@@ -13,6 +13,16 @@ export type Repo = {
 export const repos: Repo[] = [
   {
     imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/02/2014-chevy-malibu.jpg",
+    title: "2014 Chevy Malibu LT - Longview",
+    engine: "2.5L I4",
+    mileage: "114,850 miles",
+    color: "Gold",
+    startingPrice: "",
+    buyPrice: "$9,995",
+  },
+  {
+    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/02/20250204_163651-scaled.jpg",
     title: "2018 Ford F150 XL 4x4WD - Longview",
     engine: "5.0L V8",
