@@ -13,6 +13,26 @@ export type Repo = {
 export const repos: Repo[] = [
   {
     imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/03/20250306_114814.jpg",
+    title: "2018 F150 XLT Turbo 4WD - Longview",
+    engine: "3.5L V6 Eco Boost",
+    mileage: "195,738 miles",
+    color: "Gray",
+    startingPrice: "$15,950",
+    buyPrice: "$17,950",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/02/2014-chevy-malibu.jpg",
+    title: "2014 Chevy Malibu LT - Longview",
+    engine: "2.5L I4",
+    mileage: "114,850 miles",
+    color: "Gold",
+    startingPrice: "",
+    buyPrice: "$9,995",
+  },
+  {
+    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/02/20250204_163651-scaled.jpg",
     title: "2018 Ford F150 XL 4x4WD - Longview",
     engine: "5.0L V8",
@@ -20,16 +40,6 @@ export const repos: Repo[] = [
     color: "White",
     startingPrice: "$15,950",
     buyPrice: "$17,950",
-  },
-  {
-    imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2025/01/20250127_163016_resized.jpg",
-    title: "2013 Ford F150 Limited 4x4 - Longview",
-    engine: "Crew Cab, Eco Boost, 3.5L V6 Turbo New motor",
-    mileage: "221,633 miles",
-    color: "White",
-    startingPrice: "$11,650",
-    buyPrice: "$14,650",
   },
   {
     imgSrc:
