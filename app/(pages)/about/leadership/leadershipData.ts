@@ -17,11 +17,11 @@ export const leadershipData: leaderDataType[] = [
       "https://www.telcoplus.org/wp-content/uploads/2023/03/Web-Shane-1.jpg",
     title: "Chairman",
     name: "Shane Coleman",
-    term: "Term Expires 2025",
+    term: "Term Expires 2028",
   },
   {
     imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2023/03/Web-Tim-copy.jpg",
+      "https://www.telcoplus.org/wp-content/uploads/2025/03/Tim-Ralston-web.jpg",
     title: "Vice Chairman",
     name: "Tim Ralston",
     term: "Term Expires 2026",
@@ -35,10 +35,10 @@ export const leadershipData: leaderDataType[] = [
   },
   {
     imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2023/03/Web-Jennifer-1.jpg",
+      "https://www.telcoplus.org/wp-content/uploads/2025/03/Jennifer-Langford-web.jpg",
     title: "Secretary",
     name: "Jennifer Langford",
-    term: "Term Expires 2025",
+    term: "Term Expires 2028",
   },
   {
     imgSrc:
@@ -65,5 +65,11 @@ export const leadershipData: leaderDataType[] = [
       "https://www.telcoplus.org/wp-content/uploads/2023/03/Web-Dara-1.jpg",
     title: "Associate Director",
     name: "Dara Brazile",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/03/Ann-Wilson-web.jpg",
+    title: "Associate Director",
+    name: "Ann Wilson",
   },
 ];

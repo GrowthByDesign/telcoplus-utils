@@ -45,7 +45,7 @@ export const repos: Repo[] = [
   {
     imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/01/20250127_122930-01-scaled.jpeg",
-    title: "2011 Chevy Silverado, 2500 HD 4x4 - Longview",
+    title: "2011 Chevy Silverado, 2500 HD 4x4 - Kilgore",
     engine: "Crew Cab 6.0 L V8",
     mileage: "126,450 miles",
     color: "Red",
@@ -55,7 +55,7 @@ export const repos: Repo[] = [
   {
     imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/01/IMG_1733-scaled.jpg",
-    title: "2024 Kia Forte LXS - Tyler",
+    title: "2024 Kia Forte LXS - Longview",
     engine: "2.0 L  i4",
     mileage: "16,490 miles",
     color: "Silver",
@@ -65,7 +65,7 @@ export const repos: Repo[] = [
   {
     imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/01/2014-ford-f150.jpg",
-    title: "2014 Ford F150 4WD - Longview",
+    title: "2014 Ford F150 4WD - Kilgore",
     engine: "Crew Cab Limited, ECO Boost 3.5L V6 Turbo",
     mileage: "126,000 miles",
     color: "Black",
@@ -94,16 +94,6 @@ export const repos: Repo[] = [
   },
   {
     imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2024/01/2021DodgeRam-scaled.jpg",
-    title: "2021 RAM 1500 - Kilgore",
-    engine: "Bighorn/Lone Star ETORQUE 5.7L V8",
-    mileage: "38,365 miles",
-    color: "Gray",
-    startingPrice: "",
-    buyPrice: "$37,000",
-  },
-  {
-    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/01/infiniti-qx60.jpg",
     title: "2018 Infiniti QX60 SUV - Tyler",
     engine: "3.5L V6",
@@ -124,16 +114,6 @@ export const repos: Repo[] = [
   },
   {
     imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2025/01/silverado-1500-scaled.jpg",
-    title: "2019 Chevy Silverado 1500 4x4 - Tyler",
-    engine: "Custom Trail Boss, 3.5L V8",
-    mileage: "203,434 miles",
-    color: "Silver",
-    startingPrice: "$15,500",
-    buyPrice: "$18,500",
-  },
-  {
-    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/01/2017-Mercedes-rotated.jpg",
     title: "2017 Mercedes C-Class - Tyler",
     engine: "C300 AWD 2.0L I4 Turbo",
@@ -151,16 +131,6 @@ export const repos: Repo[] = [
     color: "Cranberry",
     startingPrice: "",
     buyPrice: "$13,995",
-  },
-  {
-    imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2024/05/2014-F150.jpg",
-    title: "2014 F-150 King Ranch 4WD - Longview",
-    engine: "Crew cab, 5.0L V8",
-    mileage: "135,500 miles",
-    color: "Brown",
-    startingPrice: "$16,995",
-    buyPrice: "$17,500",
   },
   {
     imgSrc:
