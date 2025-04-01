@@ -13,6 +13,46 @@ export type Repo = {
 export const repos: Repo[] = [
   {
     imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/04/20250401_111825_resized.jpg",
+    title: "2018 Chevy Silverado 1500 4WD - Longview",
+    engine: "Crew Cab custom, 5.3L V8",
+    mileage: "165,327 miles",
+    color: "Red",
+    startingPrice: "$14,500",
+    buyPrice: "$19,750",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/04/20250401_111704_resized.jpg",
+    title: "2015 GMC Sierra 1500 SLT 4WD - Longview",
+    engine: "Crew Cab, 5.3L V8",
+    mileage: "164,022 miles",
+    color: "Black",
+    startingPrice: "$16,500",
+    buyPrice: "$19,750",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/04/20250401_111544_resized.jpg",
+    title: "2012 Jeep Patriot  - Longview",
+    engine: "4D, 2.4L I4",
+    mileage: "122,158 miles",
+    color: "Gray",
+    startingPrice: "$5,000",
+    buyPrice: "$7,250",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/04/20250401_111458_resized.jpg",
+    title: "2012 Chevy Silverado 1500  - Longview",
+    engine: "Ext Cab LT, 5.3L V8",
+    mileage: "141,527 miles",
+    color: "Blue Gray",
+    startingPrice: "$8,500",
+    buyPrice: "$11,000",
+  },
+  {
+    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/03/20250306_114814.jpg",
     title: "2018 F150 XLT Turbo 4WD - Longview",
     engine: "3.5L V6 Eco Boost",
