@@ -13,6 +13,36 @@ export type Repo = {
 export const repos: Repo[] = [
   {
     imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/04/2018-bmw-3-series-scaled.jpg",
+    title: "2018 BMW 3 Series - Longview",
+    engine: "330i 2.0L I4",
+    mileage: "120,000 miles",
+    color: "White",
+    startingPrice: "",
+    buyPrice: "$10,500",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/04/2018-jeep.jpg",
+    title: "2018 Jeep Grand Cherokee 4WD - Longview",
+    engine: "3.6L V6",
+    mileage: "112,052 miles",
+    color: "White",
+    startingPrice: "$12,500",
+    buyPrice: "$14,750",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/04/2020-toyota-camry.jpg",
+    title: "2020 Toyota Camry XSE - Longview",
+    engine: "2.5L I4",
+    mileage: "126,538 miles",
+    color: "White",
+    startingPrice: "$15,250",
+    buyPrice: "$17,500",
+  },
+  {
+    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/04/20250401_111825_resized.jpg",
     title: "2018 Chevy Silverado 1500 4WD - Longview",
     engine: "Crew Cab custom, 5.3L V8",
