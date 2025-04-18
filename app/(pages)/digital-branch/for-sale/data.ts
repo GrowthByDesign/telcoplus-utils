@@ -13,16 +13,6 @@ export type Repo = {
 export const repos: Repo[] = [
   {
     imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2025/04/2018-bmw-3-series-scaled.jpg",
-    title: "2018 BMW 3 Series - Longview",
-    engine: "330i 2.0L I4",
-    mileage: "120,000 miles",
-    color: "White",
-    startingPrice: "",
-    buyPrice: "$10,500",
-  },
-  {
-    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/04/2018-jeep.jpg",
     title: "2018 Jeep Grand Cherokee 4WD - Longview",
     engine: "3.6L V6",
@@ -63,16 +53,6 @@ export const repos: Repo[] = [
   },
   {
     imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2025/04/20250401_111544_resized.jpg",
-    title: "2012 Jeep Patriot  - Longview",
-    engine: "4D, 2.4L I4",
-    mileage: "122,158 miles",
-    color: "Gray",
-    startingPrice: "$5,000",
-    buyPrice: "$7,250",
-  },
-  {
-    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/04/20250401_111458_resized.jpg",
     title: "2012 Chevy Silverado 1500  - Longview",
     engine: "Ext Cab LT, 5.3L V8",
@@ -90,17 +70,6 @@ export const repos: Repo[] = [
     color: "Gray",
     startingPrice: "$15,950",
     buyPrice: "$17,950",
-  },
-  {
-    imgSrc:
-
-      "https://www.telcoplus.org/wp-content/uploads/2025/02/2014-chevy-malibu.jpg",
-    title: "2014 Chevy Malibu LT - Longview",
-    engine: "2.5L I4",
-    mileage: "114,850 miles",
-    color: "Gold",
-    startingPrice: "",
-    buyPrice: "$9,995",
   },
   {
     imgSrc:
@@ -124,16 +93,6 @@ export const repos: Repo[] = [
   },
   {
     imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2025/01/IMG_1733-scaled.jpg",
-    title: "2024 Kia Forte LXS - Longview",
-    engine: "2.0 L  i4",
-    mileage: "16,490 miles",
-    color: "Silver",
-    startingPrice: "$18,900",
-    buyPrice: "$21,900",
-  },
-  {
-    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/01/2014-ford-f150.jpg",
     title: "2014 Ford F150 4WD - Kilgore",
     engine: "Crew Cab Limited, ECO Boost 3.5L V6 Turbo",
@@ -154,36 +113,6 @@ export const repos: Repo[] = [
   },
   {
     imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2025/01/20250116_133210_resized.jpg",
-    title: "2018 Mazda CX-5 AWD - Longview",
-    engine: "2.5L I4 Auto",
-    mileage: "123,679 miles",
-    color: "Silver",
-    startingPrice: "$12,000",
-    buyPrice: "$15,000",
-  },
-  {
-    imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2025/01/infiniti-qx60.jpg",
-    title: "2018 Infiniti QX60 SUV - Tyler",
-    engine: "3.5L V6",
-    mileage: "120,697 miles",
-    color: "White",
-    startingPrice: "$10,500",
-    buyPrice: "$12,000",
-  },
-  {
-    imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2025/01/lincoln-mkx.jpg",
-    title: "2016 Lincoln MKX SUV - Tyler",
-    engine: "3.7L V6",
-    mileage: "175,892 miles",
-    color: "White",
-    startingPrice: "$9,000",
-    buyPrice: "$11,000",
-  },
-  {
-    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/01/2017-Mercedes-rotated.jpg",
     title: "2017 Mercedes C-Class - Tyler",
     engine: "C300 AWD 2.0L I4 Turbo",
@@ -191,16 +120,6 @@ export const repos: Repo[] = [
     color: "Black",
     startingPrice: "$14,500",
     buyPrice: "$16,995",
-  },
-  {
-    imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2024/11/2016-suburban-scaled.jpg",
-    title: "2016 Chevy Suburban 1500 - Longview",
-    engine: "4D LT 5.3L V8",
-    mileage: "208,791 miles",
-    color: "Cranberry",
-    startingPrice: "",
-    buyPrice: "$13,995",
   },
   {
     imgSrc:
