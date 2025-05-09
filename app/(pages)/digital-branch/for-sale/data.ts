@@ -13,6 +13,16 @@ export type Repo = {
 export const repos: Repo[] = [
   {
     imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/05/2020-kia-optima.jpg",
+    title: "2020 Kia Optima LX - Longview",
+    engine: "2.4L L I4",
+    mileage: "139,331 miles",
+    color: "Silver",
+    startingPrice: "$9,995",
+    buyPrice: "$12,995",
+  },
+  {
+    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/04/2018-jeep.jpg",
     title: "2018 Jeep Grand Cherokee 4WD - Longview",
     engine: "3.6L V6",
