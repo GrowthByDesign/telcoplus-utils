@@ -13,6 +13,36 @@ export type Repo = {
 export const repos: Repo[] = [
   {
     imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/05/2019-gmc-terrain.jpg",
+    title: "2019 GMC Terrain SLE - Longview",
+    engine: "1.5L I4",
+    mileage: "92,680 miles",
+    color: "Black",
+    startingPrice: "$11,500",
+    buyPrice: "$14,995",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/05/2013-f150-crew-cab.jpg",
+    title: "2013 F-150 Crew Cab XLT 4WD - Longview",
+    engine: "5.0L V8 Eco Boost",
+    mileage: "144,870 miles",
+    color: "White",
+    startingPrice: "$14,995",
+    buyPrice: "$17,995",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/05/2010-f350-super-duty.jpg",
+    title: "2010 F-350 Super Duty King Ranch - Longview",
+    engine: "4WD, 6.4L V8 T-Diesel",
+    mileage: "127,633 miles",
+    color: "White",
+    startingPrice: "$14,995",
+    buyPrice: "$17,995",
+  },
+  {
+    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/05/2020-kia-optima.jpg",
     title: "2020 Kia Optima LX - Longview",
     engine: "2.4L L I4",
