@@ -63,16 +63,6 @@ export const repos: Repo[] = [
   },
   {
     imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2025/04/20250401_111825_resized.jpg",
-    title: "2018 Chevy Silverado 1500 4WD - Longview",
-    engine: "Crew Cab custom, 5.3L V8",
-    mileage: "165,327 miles",
-    color: "Red",
-    startingPrice: "$14,500",
-    buyPrice: "$19,750",
-  },
-  {
-    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/04/20250401_111704_resized.jpg",
     title: "2015 GMC Sierra 1500 SLT 4WD - Longview",
     engine: "Crew Cab, 5.3L V8",
