@@ -13,6 +13,46 @@ export type Repo = {
 export const repos: Repo[] = [
   {
     imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/05/2019-gmc-terrain.jpg",
+    title: "2019 GMC Terrain SLE - Longview",
+    engine: "1.5L I4",
+    mileage: "92,680 miles",
+    color: "Black",
+    startingPrice: "$11,500",
+    buyPrice: "$14,995",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/05/2013-f150-crew-cab.jpg",
+    title: "2013 F-150 Crew Cab XLT 4WD - Longview",
+    engine: "5.0L V8 Eco Boost",
+    mileage: "144,870 miles",
+    color: "White",
+    startingPrice: "$14,995",
+    buyPrice: "$17,995",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/05/2010-f350-super-duty.jpg",
+    title: "2010 F-350 Super Duty King Ranch - Longview",
+    engine: "4WD, 6.4L V8 T-Diesel",
+    mileage: "127,633 miles",
+    color: "White",
+    startingPrice: "$14,995",
+    buyPrice: "$17,995",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/05/2020-kia-optima.jpg",
+    title: "2020 Kia Optima LX - Longview",
+    engine: "2.4L L I4",
+    mileage: "139,331 miles",
+    color: "Silver",
+    startingPrice: "$9,995",
+    buyPrice: "$12,995",
+  },
+  {
+    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/04/2018-jeep.jpg",
     title: "2018 Jeep Grand Cherokee 4WD - Longview",
     engine: "3.6L V6",
@@ -20,16 +60,6 @@ export const repos: Repo[] = [
     color: "White",
     startingPrice: "$12,500",
     buyPrice: "$14,750",
-  },
-  {
-    imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2025/04/2020-toyota-camry.jpg",
-    title: "2020 Toyota Camry XSE - Longview",
-    engine: "2.5L I4",
-    mileage: "126,538 miles",
-    color: "White",
-    startingPrice: "$15,250",
-    buyPrice: "$17,500",
   },
   {
     imgSrc:
@@ -50,16 +80,6 @@ export const repos: Repo[] = [
     color: "Black",
     startingPrice: "$16,500",
     buyPrice: "$19,750",
-  },
-  {
-    imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2025/04/20250401_111458_resized.jpg",
-    title: "2012 Chevy Silverado 1500  - Longview",
-    engine: "Ext Cab LT, 5.3L V8",
-    mileage: "141,527 miles",
-    color: "Blue Gray",
-    startingPrice: "$8,500",
-    buyPrice: "$11,000",
   },
   {
     imgSrc:
@@ -84,7 +104,7 @@ export const repos: Repo[] = [
   {
     imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/01/20250127_122930-01-scaled.jpeg",
-    title: "2011 Chevy Silverado, 2500 HD 4x4 - Kilgore",
+    title: "2011 Chevy Silverado, 2500 HD 4x4 - LongView",
     engine: "Crew Cab 6.0 L V8",
     mileage: "126,450 miles",
     color: "Red",
@@ -120,16 +140,6 @@ export const repos: Repo[] = [
     color: "Black",
     startingPrice: "$14,500",
     buyPrice: "$16,995",
-  },
-  {
-    imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2024/05/2018-toyota-camry.jpg",
-    title: "2018 Toyota Camry - Longview",
-    engine: "4D LE 2.5L I4",
-    mileage: "131,506 miles",
-    color: "White",
-    startingPrice: "$10,750",
-    buyPrice: "$15,495",
   }
 
 ];
