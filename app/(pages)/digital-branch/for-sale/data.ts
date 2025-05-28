@@ -13,6 +13,36 @@ export type Repo = {
 export const repos: Repo[] = [
   {
     imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/05/IMG_2553.jpg",
+    title: "2015 GMC Yukon SLE - Longview",
+    engine: "5.3L V8",
+    mileage: "242,875",
+    color: "Black",
+    startingPrice: "$8,995",
+    buyPrice: "$11,500",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/05/IMG_2550.jpg",
+    title: "2016 Ram 1500 SLT - Longview",
+    engine: "3.6L V6",
+    mileage: "189,409",
+    color: "Silver",
+    startingPrice: "$7,550",
+    buyPrice: "$11,500",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/05/IMG_2424.jpg",
+    title: "2018 F-150 XLT 4WD - Longview",
+    engine: "5.0L V8",
+    mileage: "183,254 miles",
+    color: "Black",
+    startingPrice: "$15,995",
+    buyPrice: "$19,995",
+  },
+  {
+    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/05/2019-gmc-terrain.jpg",
     title: "2019 GMC Terrain SLE - Longview",
     engine: "1.5L I4",
@@ -53,16 +83,6 @@ export const repos: Repo[] = [
   },
   {
     imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2025/04/2018-jeep.jpg",
-    title: "2018 Jeep Grand Cherokee 4WD - Longview",
-    engine: "3.6L V6",
-    mileage: "112,052 miles",
-    color: "White",
-    startingPrice: "$12,500",
-    buyPrice: "$14,750",
-  },
-  {
-    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/04/20250401_111704_resized.jpg",
     title: "2015 GMC Sierra 1500 SLT 4WD - Longview",
     engine: "Crew Cab, 5.3L V8",
@@ -94,7 +114,7 @@ export const repos: Repo[] = [
   {
     imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/01/20250127_122930-01-scaled.jpeg",
-    title: "2011 Chevy Silverado, 2500 HD 4x4 - LongView",
+    title: "2011 Chevy Silverado, 2500 HD 4x4 - Longview",
     engine: "Crew Cab 6.0 L V8",
     mileage: "126,450 miles",
     color: "Red",
@@ -104,7 +124,7 @@ export const repos: Repo[] = [
   {
     imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/01/2014-ford-f150.jpg",
-    title: "2014 Ford F150 4WD - Kilgore",
+    title: "2014 Ford F150 4WD - Longview",
     engine: "Crew Cab Limited, ECO Boost 3.5L V6 Turbo",
     mileage: "126,000 miles",
     color: "Black",
@@ -121,15 +141,6 @@ export const repos: Repo[] = [
     startingPrice: "$18,500",
     buyPrice: "$20,000",
   },
-  {
-    imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2025/01/2017-Mercedes-rotated.jpg",
-    title: "2017 Mercedes C-Class - Tyler",
-    engine: "C300 AWD 2.0L I4 Turbo",
-    mileage: "70,546 miles",
-    color: "Black",
-    startingPrice: "$14,500",
-    buyPrice: "$16,995",
-  }
+
 
 ];
