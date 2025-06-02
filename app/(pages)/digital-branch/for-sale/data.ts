@@ -13,6 +13,16 @@ export type Repo = {
 export const repos: Repo[] = [
   {
     imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/06/2023-polaris-scaled.jpg",
+    title: "2023 Polaris Electric Utility Side by Side - Tyler",
+    engine: "Ranger XP Kinetic Premium 14.9kWh",
+    mileage: "12.7 hours",
+    color: "Black",
+    startingPrice: "",
+    buyPrice: "$17,400",
+  },
+  {
+    imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/05/IMG_2553.jpg",
     title: "2015 GMC Yukon SLE - Longview",
     engine: "5.3L V8",
