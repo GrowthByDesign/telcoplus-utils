@@ -13,6 +13,57 @@ export type Repo = {
 export const repos: Repo[] = [
   {
     imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/06/20250610_104148-scaled.jpg",
+    title: "2011 Camper Sabre by Forest River - Tyler",
+    engine: "M-32QBTS",
+    mileage: "As is.",
+    color: " ",
+    startingPrice: "$6,000",
+    buyPrice: "$7,500",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/06/IMG_2637.jpg",
+    title: "2013 Volkswagen Jetta TDI - Tyler",
+    engine: "2.0L I4",
+    mileage: "181,660 miles",
+    color: "Gold",
+    startingPrice: "$3,500",
+    buyPrice: "$5,750",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/06/IMG_2649.jpg",
+    title: "2017 Lincoln Continental - Tyler",
+    engine: "AWD 3.0L V6 Turbo",
+    mileage: "169,413 miles",
+    color: "Silver",
+    startingPrice: "$11,500",
+    buyPrice: "$15,500",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/06/IMG_2922.jpg",
+    title: "2020 Kia Optima LX - Longview",
+    engine: "2.4L I4",
+    mileage: "77,602 miles",
+    color: "White",
+    startingPrice: "$12,500",
+    buyPrice: "$15,500",
+  },
+  {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/06/IMG_2921.jpg",
+    title: "2020 Kia Sportage - Longview",
+    engine: "2.4L ID",
+    mileage: "59,787 miles",
+    color: "Black",
+    startingPrice: "$13,500",
+    buyPrice: "$18,500",
+  },
+  {
+    imgSrc:
+
       "https://www.telcoplus.org/wp-content/uploads/2025/06/2023-polaris-scaled.jpg",
     title: "2023 Polaris Electric Utility Side by Side - Tyler",
     engine: "Ranger XP Kinetic Premium 14.9kWh",
