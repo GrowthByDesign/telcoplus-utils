@@ -11,6 +11,16 @@ export type Repo = {
 };
 
 export const repos: Repo[] = [
+   {
+    imgSrc:
+      "https://www.telcoplus.org/wp-content/uploads/2025/07/20250630_155426_resized.jpg",
+    title: "2015 Nissan Murano SL - Longview(For Sale By Owner Call 903-720-6789)",
+    engine: "",
+    mileage: "137,000 miles",
+    color: "Gray ",
+    startingPrice: "$8,700",
+    buyPrice: "$8,700",
+  },
   {
     imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/06/20250610_104148-scaled.jpg",
