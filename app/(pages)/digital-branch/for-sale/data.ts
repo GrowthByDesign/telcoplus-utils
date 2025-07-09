@@ -20,7 +20,7 @@ export const repos: Repo[] = [
     color: "Gray ",
     startingPrice: "$8,700",
     buyPrice: "$8,700",
-  },
+  }, 
   {
     imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/06/20250610_104148-scaled.jpg",
@@ -70,26 +70,6 @@ export const repos: Repo[] = [
     color: "Black",
     startingPrice: "$11,500",
     buyPrice: "$14,995",
-  },
-  {
-    imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2025/05/2010-f350-super-duty.jpg",
-    title: "2010 F-350 Super Duty King Ranch - Longview",
-    engine: "4WD, 6.4L V8 T-Diesel",
-    mileage: "127,633 miles",
-    color: "White",
-    startingPrice: "$14,995",
-    buyPrice: "$17,995",
-  },
-  {
-    imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2025/01/20250127_122930-01-scaled.jpeg",
-    title: "2011 Chevy Silverado, 2500 HD 4x4 - Longview",
-    engine: "Crew Cab 6.0 L V8",
-    mileage: "126,450 miles",
-    color: "Red",
-    startingPrice: "$17,500",
-    buyPrice: "$19,250",
   },
   {
     imgSrc:
