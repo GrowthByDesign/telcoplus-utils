@@ -11,25 +11,42 @@ export type Repo = {
 };
 
 export const repos: Repo[] = [
-  {  
-    imgSrc:"https://www.telcoplus.org/wp-content/uploads/2025/07/IMG_3639001.jpg",
-    title: "2021 X3 M ClassL - Tyler(For Sale By Owner Text 903-714-1188)",
-    engine: "",
-    mileage: "42,600 miles",
+     {  
+    imgSrc:"https://www.telcoplus.org/wp-content/uploads/2025/07/IMG_3506.jpg",
+    title: "2013 F-150 Limited 4WD - Longview",
+    engine: "Limited, 3.5L V6",
+    mileage: "167,994 miles",
+    color: "Forest Green",
+    startingPrice: "$15,995",
+    buyPrice: "$18,995",
+  },
+     {  
+    imgSrc:"https://www.telcoplus.org/wp-content/uploads/2025/07/20250730_135246_resized.jpg",
+    title: "2022 Harley Davidson FLHRXS - Longview",
+    engine: "Road King Special, 1870 CCs 4 stroke 6 speeds 2 cylinders",
+    mileage: " ",
+    color: "",
+    startingPrice: "$14,795",
+    buyPrice: "$17,795",
+  },
+    {  
+    imgSrc:"https://www.telcoplus.org/wp-content/uploads/2025/07/IMG_3508.jpg",
+    title: "2017 Ram 1500 Laramie 4WD - Longview",
+    engine: "6.7 v8",
+    mileage: "136,631 miles",
+    color: "white",
+    startingPrice: "$18,000",
+    buyPrice: "$21,995",
+  },
+    {  
+    imgSrc:"https://www.telcoplus.org/wp-content/uploads/2025/07/IMG_3501.jpg",
+    title: "2014 Ram 2500 Tradesman 4WD - Longview",
+    engine: "6.4 v8",
+    mileage: "218,295 miles",
     color: "Black",
-    startingPrice: "$27,500",
-    buyPrice: "$27,500",
-  }, 
-   {
-    imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2025/07/20250630_155426_resized.jpg",
-    title: "2015 Nissan Murano SL - Longview(For Sale By Owner Call 903-720-6789)",
-    engine: "",
-    mileage: "137,000 miles",
-    color: "Gray ",
-    startingPrice: "$8,700",
-    buyPrice: "$8,700",
-  }, 
+    startingPrice: "$8,995",
+    buyPrice: "$11,995",
+  },
   {
     imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/06/20250610_104148-scaled.jpg",
