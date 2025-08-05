@@ -10,7 +10,46 @@ export type Repo = {
   buyPrice?: string;
 };
 
+export type Others = {
+  imgSrc?: string;
+  title?: string;
+  startingPrice?: string;
+
+
+}
+
+export const other: Others[] =[
+    {  
+    imgSrc:"https://www.telcoplus.org/wp-content/uploads/2025/08/20250804_111545-scaled.jpg",
+    title: "Solid Wood Desks (3) - Longview Branch, Ask for Crystal $500 or best offer",
+    startingPrice: "$500",
+   
+  }
+]
+
 export const repos: Repo[] = [
+     {  
+    imgSrc:"https://www.telcoplus.org/wp-content/uploads/2025/08/20250725_101645.jpg",
+    title: "Solid Wood Desks (3) - Longview Branch, Ask for Crystal $500 or best offer",
+    startingPrice: "$500",
+       buyPrice: "",
+
+  },
+    {  
+    imgSrc:"https://www.telcoplus.org/wp-content/uploads/2025/08/20250725_101704-scaled.jpg",
+    title: "Retro Lobby Chairs - Must pick up Longview Branch, Ask for Crystal $150 for all 8",
+    startingPrice: "$50 ",
+       buyPrice: "",
+
+  },
+  {  
+    imgSrc:"https://www.telcoplus.org/wp-content/uploads/2025/08/20250804_111545-scaled.jpg",
+    title: "Solid Wood Desks (3) - Must pick up Longview Branch, Ask for Crystal $75 for each or best offer",
+    startingPrice: "$75",
+    buyPrice: "",
+
+  },
+
      {  
     imgSrc:"https://www.telcoplus.org/wp-content/uploads/2025/07/IMG_3506.jpg",
     title: "2013 F-150 Limited 4WD - Longview",

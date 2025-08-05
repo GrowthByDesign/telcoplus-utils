@@ -41,5 +41,46 @@ const Card = ({
     </div>
   );
 };
+/* new card style */
+const SummaryCard = ({
+  imgSrc,
+  shadowDirection,
+  title,
+  summary,
+}: {
+  imgSrc?: string;
+  shadowDirection?: string;
+  title: string;
+  summary?: string; // Optional summary field
+}) => {
+  if (shadowDirection === "left") {
+    shadowDirection = "hero-shadow-left";
+  } else if (shadowDirection === "right") {
+    shadowDirection = "hero-shadow-right";
+  } else if (shadowDirection === "middle") {
+    shadowDirection = "repo-shadow";
+  }
+
+  return (
+    <div className={`tw-mx-auto tw-max-w-[433px] b-rad tw-h-fit ${shadowDirection}`}>
+      <img
+        className="rounded-t-b-rad tw-max-h-[294px] tw-object-cover tw-w-[433px]"
+        src={imgSrc || "default-image.jpg"}
+        alt={title}
+        height="294"
+        width="433"
+      />
+      <div className="tw-text-brandingBlue-400 tw-font-bold tw-text-center tw-text-lg fs-18 tw-py-2">
+        {title}
+      </div>
+      <div className="tw-p-4 tw-bg-auxBlue-100 tw-border-t border-light-blue rounded-b-b-rad">
+        {/* Render a default summary if none is provided */}
+        <p className="tw-text-center">{summary || "Must pick up Longview Branch Ask for Crystal"}</p>
+      </div>
+    </div>
+  );
+};
 
 export default Card;
+// Named export for the SummaryCard component
+export { SummaryCard };
