@@ -24,16 +24,52 @@ export const other: Others[] =[
     title: "Solid Wood Desks (3) - Longview Branch, Ask for Crystal $500 or best offer",
     startingPrice: "$500",
    
-  }
-]
-
-export const repos: Repo[] = [
-     {  
+  },
+       {  
     imgSrc:"https://www.telcoplus.org/wp-content/uploads/2025/08/20250725_101645.jpg",
     title: "Solid Wood Desks (3) - Longview Branch, Ask for Crystal $500 or best offer",
     startingPrice: "$500",
        buyPrice: "",
 
+  },
+]
+
+export const repos: Repo[] = [
+     {  
+    imgSrc:"https://www.telcoplus.org/wp-content/uploads/2025/08/IMG_3911.jpg",
+    title: "2016 Chevrolet Colorado Crew Cab    - Tyler",
+    engine: "3.6L V6",
+    mileage: "127,752 miles",
+    color: "Gray",
+    startingPrice: "$12,750",
+    buyPrice: "$14,500",
+  },
+    {  
+    imgSrc:"https://www.telcoplus.org/wp-content/uploads/2025/08/IMG_2559-scaled.jpg",
+    title: "2019 Chevrolet Traverse Utility 4D RS   - Tyler",
+    engine: "2.0LI4Turbo",
+    mileage: "126,501 miles ",
+    color: "Black",
+    startingPrice: "$15,995",
+    buyPrice: "$18,995",
+  },
+     {  
+    imgSrc:"https://www.telcoplus.org/wp-content/uploads/2025/08/20250807_143403_resized.jpg",
+    title: "2016 Chevy Travers LS  - Tyler",
+    engine: "3.6L V6",
+    mileage: "230,908 miles ",
+    color: "silver",
+    startingPrice: "$5,550",
+    buyPrice: "$27,995",
+  },
+       {  
+    imgSrc:"https://www.telcoplus.org/wp-content/uploads/2025/08/20250807_143327_resized.jpg",
+    title: "2022 Volkswagen Atlas SEL  - Tyler",
+    engine: "2.0L I4 Turbo AWD",
+    mileage: "51,933 Miles ",
+    color: "silver",
+    startingPrice: "$27,995",
+    buyPrice: "$27,995",
   },
     {  
     imgSrc:"https://www.telcoplus.org/wp-content/uploads/2025/08/20250725_101704-scaled.jpg",
@@ -42,14 +78,6 @@ export const repos: Repo[] = [
        buyPrice: "",
 
   },
-  {  
-    imgSrc:"https://www.telcoplus.org/wp-content/uploads/2025/08/20250804_111545-scaled.jpg",
-    title: "Solid Wood Desks (3) - Must pick up Longview Branch, Ask for Crystal $75 for each or best offer",
-    startingPrice: "$75",
-    buyPrice: "",
-
-  },
-
      {  
     imgSrc:"https://www.telcoplus.org/wp-content/uploads/2025/07/IMG_3506.jpg",
     title: "2013 F-150 Limited 4WD - Longview",
