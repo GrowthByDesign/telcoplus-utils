@@ -105,15 +105,6 @@ export const repos: Repo[] = [
     startingPrice: "$18,000",
     buyPrice: "$21,995",
   },
-    {  
-    imgSrc:"https://www.telcoplus.org/wp-content/uploads/2025/07/IMG_3501.jpg",
-    title: "2014 Ram 2500 Tradesman 4WD - Longview",
-    engine: "6.4 v8",
-    mileage: "218,295 miles",
-    color: "Black",
-    startingPrice: "$8,995",
-    buyPrice: "$11,995",
-  },
   {
     imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/06/20250610_104148-scaled.jpg",
@@ -123,26 +114,6 @@ export const repos: Repo[] = [
     color: " ",
     startingPrice: "$6,000",
     buyPrice: "$7,500",
-  },
-  {
-    imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2025/06/IMG_2637.jpg",
-    title: "2013 Volkswagen Jetta TDI - Tyler",
-    engine: "2.0L I4",
-    mileage: "181,660 miles",
-    color: "Gold",
-    startingPrice: "$3,500",
-    buyPrice: "$5,750",
-  },
-  {
-    imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2025/06/IMG_2649.jpg",
-    title: "2017 Lincoln Continental - Tyler",
-    engine: "AWD 3.0L V6 Turbo",
-    mileage: "169,413 miles",
-    color: "Silver",
-    startingPrice: "$11,500",
-    buyPrice: "$15,500",
   },
   {
     imgSrc:
