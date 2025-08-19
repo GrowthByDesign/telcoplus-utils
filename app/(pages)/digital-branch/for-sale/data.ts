@@ -35,6 +35,33 @@ export const other: Others[] =[
 ]
 
 export const repos: Repo[] = [
+    {  
+    imgSrc:"https://www.telcoplus.org/wp-content/uploads/2025/08/IMG_3522.jpg",
+    title: "2014 Chevy Cruze LT  - Longview",
+    engine: "1.4L i4Turbo",
+    mileage: "112,647 miles",
+    color: "Black",
+    startingPrice: "$6,995",
+    buyPrice: "$8,995",
+  },
+     {  
+    imgSrc:"https://www.telcoplus.org/wp-content/uploads/2025/08/IMG_3901.jpg",
+    title: "2017 GMC Sierra 1500 Denali - Longview",
+    engine: "Crew cab, 5.3L V8",
+    mileage: "159,671 miles",
+    color: "Maroon",
+    startingPrice: "$18,500",
+    buyPrice: "$23,500",
+  },
+       {  
+    imgSrc:"https://www.telcoplus.org/wp-content/uploads/2025/08/IMG_3902.jpg",
+    title: "2018 Jeep Grand Cherokee 4WD Limited - Longview",
+    engine: "3.6L V6",
+    mileage: "132,902 miles",
+    color: "Maroon",
+    startingPrice: "$12,750",
+    buyPrice: "$14,500",
+  },
      {  
     imgSrc:"https://www.telcoplus.org/wp-content/uploads/2025/08/IMG_3911.jpg",
     title: "2016 Chevrolet Colorado Crew Cab    - Tyler",
