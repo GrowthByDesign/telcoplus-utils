@@ -48,12 +48,6 @@ export const leadershipData: leaderDataType[] = [
     term: "Term Expires 2026",
   },
   {
-    imgSrc: "https://www.telcoplus.org/wp-content/uploads/2023/03/WEB-Luke.jpg",
-    title: "Director",
-    name: "Luke Altman",
-    term: "Term Expires 2027",
-  },
-  {
     imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2023/03/Web-Greg-edit.jpg",
     title: "Director",
@@ -63,8 +57,10 @@ export const leadershipData: leaderDataType[] = [
   {
     imgSrc:
       "https://www.telcoplus.org/wp-content/uploads/2025/03/Ann-Wilson-web.jpg",
-    title: "Associate Director",
+    title: "Director",
     name: "Ann Wilson",
+    term: "Term Expires 2027",
+
   },
    {
     imgSrc:
