@@ -35,27 +35,20 @@ export const other: Others[] =[
 ]
 
 export const repos: Repo[] = [
-
+ {  
+    imgSrc:"https://www.telcoplus.org/wp-content/uploads/2026/04/IMG_4228-scaled.jpeg",
+    title: "Kia Soul – Located in Gilmer , max seating 5, adult owner, garage kept, clean, Bluetooth, well maintained,  Call (903) 235-5009 or (903) 790-0201",
+    engine: "4 cylinders, 1.6 liter, fwd, automatic 6 speed",
+    mileage: "121,000 miles",
+    color: "Silver",
+    startingPrice: "$8,000"  },
 
     {  
-    imgSrc:"https://www.telcoplus.org/wp-content/uploads/2025/07/IMG_3508.jpg",
-    title: "2017 Ram 1500 Laramie 4WD - Longview",
-    engine: "6.7 v8",
-    mileage: "136,631 miles",
+    imgSrc:"https://www.telcoplus.org/wp-content/uploads/2026/04/1000027090-scaled.jpg",
+    title: "2007 Motor Coach – Georgetown by Forest River - At the 1010 S SE Loop Branch",
+    mileage: "29,750 miles",
     color: "white",
-    startingPrice: "$18,000",
-    buyPrice: "$21,995",
-  },
-  {
-    imgSrc:
-      "https://www.telcoplus.org/wp-content/uploads/2025/06/IMG_2921.jpg",
-    title: "2020 Kia Sportage - Longview",
-    engine: "2.4L ID",
-    mileage: "59,787 miles",
-    color: "Black",
-    startingPrice: "$13,500",
-    buyPrice: "$18,500",
-  },
+    startingPrice: "$8,000"  }
 
 
 ];
