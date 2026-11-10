@@ -50,6 +50,14 @@ export const repos: Repo[] = [
     color: "black",
     startingPrice: "$14,250",
          buyPrice: "$14,250",
+},{  
+    imgSrc:"https://www.telcoplus.org/app/uploads/2026/11/2145fe5f-5254-45ef-9ffa-d7cebe0771d8.jpeg",    
+    title: "2020 1500 Crew Cab Bighorn/Lone Star 5.7L V8 vin: 1C6RREFT7LN152500",
+    engine: "Lone Star 5.7L V8",
+    mileage: "108,804",
+    color: "grey",
+    startingPrice: "$22,250",
+         buyPrice: "$22,250",
 }
 
 ];
